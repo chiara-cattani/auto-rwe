@@ -1,0 +1,28 @@
+study_id,visit_original,avisitn,analysis_window
+activia_eu_01,Baseline,0,baseline
+activia_eu_01,Week 4,4,mid_treatment
+activia_eu_01,Week 8,8,end_of_treatment
+actimel_asia_02,Baseline,0,baseline
+actimel_asia_02,Week 8,8,mid_treatment
+actimel_asia_02,Week 12,12,end_of_treatment
+danone_elderly_03,Baseline,0,baseline
+danone_elderly_03,Week 4,4,mid_treatment
+danone_elderly_03,Week 6,6,end_of_treatment
+activia_us_04,Baseline,0,baseline
+activia_us_04,Week 4,4,mid_treatment
+activia_us_04,Week 8,8,end_of_treatment
+activia_japan_05,Baseline,0,baseline
+activia_japan_05,Week 8,8,mid_treatment
+activia_japan_05,Week 12,12,end_of_treatment
+densia_eu_01,Baseline,0,baseline
+densia_eu_01,Week 12,12,mid_treatment
+densia_eu_01,Week 24,24,end_of_treatment
+densia_global_02,Baseline,0,baseline
+densia_global_02,Week 8,8,mid_treatment
+densia_global_02,Week 12,12,end_of_treatment
+actimel_immune_eu_01,Baseline,0,baseline
+actimel_immune_eu_01,Week 4,4,mid_treatment
+actimel_immune_eu_01,Week 8,8,end_of_treatment
+actimel_immune_elder_02,Baseline,0,baseline
+actimel_immune_elder_02,Week 8,8,mid_treatment
+actimel_immune_elder_02,Week 12,12,end_of_treatment

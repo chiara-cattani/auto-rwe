@@ -1,0 +1,481 @@
+STUDYID,USUBJID,TRT01A,PARAMCD,PARAM,AVISITN,AVISIT,ABLFL,ANL01FL,BASE,AVAL,CHG,SUBGRP
+activia_eu_01,activia_eu_01-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,78.5,78.5,0,High Baseline
+activia_eu_01,activia_eu_01-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,78.5,67.8,-10.7,High Baseline
+activia_eu_01,activia_eu_01-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,78.5,55.5,-23,High Baseline
+activia_eu_01,activia_eu_01-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55.2,55.2,0,Low Baseline
+activia_eu_01,activia_eu_01-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,55.2,41.4,-13.8,Low Baseline
+activia_eu_01,activia_eu_01-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,55.2,39.6,-15.6,Low Baseline
+activia_eu_01,activia_eu_01-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,66.4,66.4,0,High Baseline
+activia_eu_01,activia_eu_01-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,66.4,54,-12.4,High Baseline
+activia_eu_01,activia_eu_01-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,66.4,46.7,-19.7,High Baseline
+activia_eu_01,activia_eu_01-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.6,69.6,0,High Baseline
+activia_eu_01,activia_eu_01-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.6,63.5,-6.1,High Baseline
+activia_eu_01,activia_eu_01-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.6,44.3,-25.3,High Baseline
+activia_eu_01,activia_eu_01-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,66.9,66.9,0,High Baseline
+activia_eu_01,activia_eu_01-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,66.9,60.8,-6.1,High Baseline
+activia_eu_01,activia_eu_01-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,66.9,39.1,-27.8,High Baseline
+activia_eu_01,activia_eu_01-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,60.7,60.7,0,Low Baseline
+activia_eu_01,activia_eu_01-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,60.7,47.2,-13.5,Low Baseline
+activia_eu_01,activia_eu_01-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,60.7,36.9,-23.8,Low Baseline
+activia_eu_01,activia_eu_01-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,80.1,80.1,0,High Baseline
+activia_eu_01,activia_eu_01-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,80.1,71,-9.1,High Baseline
+activia_eu_01,activia_eu_01-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,80.1,61.5,-18.6,High Baseline
+activia_eu_01,activia_eu_01-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,60.9,60.9,0,Low Baseline
+activia_eu_01,activia_eu_01-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,60.9,47.9,-13,Low Baseline
+activia_eu_01,activia_eu_01-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,60.9,50.3,-10.6,Low Baseline
+activia_eu_01,activia_eu_01-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,86.2,86.2,0,High Baseline
+activia_eu_01,activia_eu_01-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,86.2,74.9,-11.3,High Baseline
+activia_eu_01,activia_eu_01-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,86.2,61.1,-25.1,High Baseline
+activia_eu_01,activia_eu_01-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,61.2,61.2,0,Low Baseline
+activia_eu_01,activia_eu_01-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,61.2,53,-8.2,Low Baseline
+activia_eu_01,activia_eu_01-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,61.2,43.7,-17.5,Low Baseline
+activia_eu_01,activia_eu_01-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,77.7,77.7,0,High Baseline
+activia_eu_01,activia_eu_01-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,77.7,66.4,-11.3,High Baseline
+activia_eu_01,activia_eu_01-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,77.7,52.4,-25.3,High Baseline
+activia_eu_01,activia_eu_01-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,89.4,89.4,0,High Baseline
+activia_eu_01,activia_eu_01-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,89.4,71.1,-18.3,High Baseline
+activia_eu_01,activia_eu_01-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,89.4,64.5,-24.9,High Baseline
+activia_eu_01,activia_eu_01-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,45.3,45.3,0,Low Baseline
+activia_eu_01,activia_eu_01-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,45.3,47.1,1.8,Low Baseline
+activia_eu_01,activia_eu_01-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,45.3,21.9,-23.4,Low Baseline
+activia_eu_01,activia_eu_01-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.7,58.7,0,Low Baseline
+activia_eu_01,activia_eu_01-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.7,43.7,-15,Low Baseline
+activia_eu_01,activia_eu_01-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.7,34.8,-23.9,Low Baseline
+activia_eu_01,activia_eu_01-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,60.4,60.4,0,Low Baseline
+activia_eu_01,activia_eu_01-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,60.4,47.4,-13,Low Baseline
+activia_eu_01,activia_eu_01-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,60.4,42.4,-18,Low Baseline
+activia_eu_01,activia_eu_01-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.6,69.6,0,High Baseline
+activia_eu_01,activia_eu_01-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.6,55.4,-14.2,High Baseline
+activia_eu_01,activia_eu_01-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.6,38.1,-31.5,High Baseline
+activia_eu_01,activia_eu_01-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.6,58.6,0,Low Baseline
+activia_eu_01,activia_eu_01-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.6,50.3,-8.3,Low Baseline
+activia_eu_01,activia_eu_01-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.6,42.9,-15.7,Low Baseline
+activia_eu_01,activia_eu_01-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,30.1,30.1,0,Low Baseline
+activia_eu_01,activia_eu_01-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,30.1,21.1,-9,Low Baseline
+activia_eu_01,activia_eu_01-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,30.1,16.6,-13.5,Low Baseline
+activia_eu_01,activia_eu_01-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,32.7,32.7,0,Low Baseline
+activia_eu_01,activia_eu_01-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,32.7,19.3,-13.4,Low Baseline
+activia_eu_01,activia_eu_01-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,32.7,14.2,-18.5,Low Baseline
+activia_eu_01,activia_eu_01-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,77.8,77.8,0,High Baseline
+activia_eu_01,activia_eu_01-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,77.8,64.2,-13.6,High Baseline
+activia_eu_01,activia_eu_01-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,77.8,54.2,-23.6,High Baseline
+activia_eu_01,activia_eu_01-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.3,58.3,0,Low Baseline
+activia_eu_01,activia_eu_01-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.3,45.7,-12.6,Low Baseline
+activia_eu_01,activia_eu_01-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.3,38.5,-19.8,Low Baseline
+activia_eu_01,activia_eu_01-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,40.6,40.6,0,Low Baseline
+activia_eu_01,activia_eu_01-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,40.6,29.9,-10.7,Low Baseline
+activia_eu_01,activia_eu_01-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,40.6,27.1,-13.5,Low Baseline
+activia_eu_01,activia_eu_01-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,59.9,59.9,0,Low Baseline
+activia_eu_01,activia_eu_01-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,59.9,49.2,-10.7,Low Baseline
+activia_eu_01,activia_eu_01-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,59.9,44.7,-15.2,Low Baseline
+activia_eu_01,activia_eu_01-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,76.6,76.6,0,High Baseline
+activia_eu_01,activia_eu_01-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,76.6,64.7,-11.9,High Baseline
+activia_eu_01,activia_eu_01-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,76.6,47,-29.6,High Baseline
+activia_eu_01,activia_eu_01-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,84.7,84.7,0,High Baseline
+activia_eu_01,activia_eu_01-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,84.7,71.9,-12.8,High Baseline
+activia_eu_01,activia_eu_01-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,84.7,59.4,-25.3,High Baseline
+activia_eu_01,activia_eu_01-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.8,56.8,0,Low Baseline
+activia_eu_01,activia_eu_01-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,56.8,47.8,-9,Low Baseline
+activia_eu_01,activia_eu_01-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,56.8,35.6,-21.2,Low Baseline
+activia_eu_01,activia_eu_01-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.9,58.9,0,Low Baseline
+activia_eu_01,activia_eu_01-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.9,55.1,-3.8,Low Baseline
+activia_eu_01,activia_eu_01-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.9,40.2,-18.7,Low Baseline
+activia_eu_01,activia_eu_01-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,40.8,40.8,0,Low Baseline
+activia_eu_01,activia_eu_01-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,40.8,32.5,-8.3,Low Baseline
+activia_eu_01,activia_eu_01-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,40.8,21.3,-19.5,Low Baseline
+activia_eu_01,activia_eu_01-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67.5,67.5,0,High Baseline
+activia_eu_01,activia_eu_01-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,67.5,61.5,-6,High Baseline
+activia_eu_01,activia_eu_01-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,67.5,40.1,-27.4,High Baseline
+activia_eu_01,activia_eu_01-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,54.3,54.3,0,Low Baseline
+activia_eu_01,activia_eu_01-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,54.3,45.6,-8.7,Low Baseline
+activia_eu_01,activia_eu_01-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,54.3,39.9,-14.4,Low Baseline
+activia_eu_01,activia_eu_01-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67.5,67.5,0,High Baseline
+activia_eu_01,activia_eu_01-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,67.5,59.1,-8.4,High Baseline
+activia_eu_01,activia_eu_01-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,67.5,37.1,-30.4,High Baseline
+activia_eu_01,activia_eu_01-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,70.5,70.5,0,High Baseline
+activia_eu_01,activia_eu_01-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,70.5,62.3,-8.2,High Baseline
+activia_eu_01,activia_eu_01-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,70.5,46.5,-24,High Baseline
+activia_eu_01,activia_eu_01-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,74.4,74.4,0,High Baseline
+activia_eu_01,activia_eu_01-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,74.4,65.3,-9.1,High Baseline
+activia_eu_01,activia_eu_01-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,74.4,52.9,-21.5,High Baseline
+activia_eu_01,activia_eu_01-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,54.7,54.7,0,Low Baseline
+activia_eu_01,activia_eu_01-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,54.7,46.3,-8.4,Low Baseline
+activia_eu_01,activia_eu_01-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,54.7,34.4,-20.3,Low Baseline
+activia_eu_01,activia_eu_01-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,68.1,68.1,0,High Baseline
+activia_eu_01,activia_eu_01-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,68.1,57.6,-10.5,High Baseline
+activia_eu_01,activia_eu_01-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,68.1,43.6,-24.5,High Baseline
+activia_eu_01,activia_eu_01-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,41.4,41.4,0,Low Baseline
+activia_eu_01,activia_eu_01-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,41.4,35.2,-6.2,Low Baseline
+activia_eu_01,activia_eu_01-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,41.4,25.6,-15.8,Low Baseline
+activia_eu_01,activia_eu_01-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52.6,52.6,0,Low Baseline
+activia_eu_01,activia_eu_01-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,52.6,37.2,-15.4,Low Baseline
+activia_eu_01,activia_eu_01-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,52.6,35.4,-17.2,Low Baseline
+activia_eu_01,activia_eu_01-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.8,51.8,0,Low Baseline
+activia_eu_01,activia_eu_01-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,51.8,43.8,-8,Low Baseline
+activia_eu_01,activia_eu_01-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,51.8,28.6,-23.2,Low Baseline
+activia_eu_01,activia_eu_01-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,33,33,0,Low Baseline
+activia_eu_01,activia_eu_01-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,33,28.3,-4.7,Low Baseline
+activia_eu_01,activia_eu_01-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,33,16.6,-16.4,Low Baseline
+activia_eu_01,activia_eu_01-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,62.4,62.4,0,Low Baseline
+activia_eu_01,activia_eu_01-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,62.4,60.7,-1.7,Low Baseline
+activia_eu_01,activia_eu_01-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,62.4,44.9,-17.5,Low Baseline
+activia_eu_01,activia_eu_01-041,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,64.5,64.5,0,High Baseline
+activia_eu_01,activia_eu_01-041,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,64.5,62.8,-1.7,High Baseline
+activia_eu_01,activia_eu_01-041,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,64.5,63.2,-1.3,High Baseline
+activia_eu_01,activia_eu_01-042,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.7,57.7,0,Low Baseline
+activia_eu_01,activia_eu_01-042,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,57.7,49.2,-8.5,Low Baseline
+activia_eu_01,activia_eu_01-042,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,57.7,47.1,-10.6,Low Baseline
+activia_eu_01,activia_eu_01-043,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,71.1,71.1,0,High Baseline
+activia_eu_01,activia_eu_01-043,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,71.1,63.9,-7.2,High Baseline
+activia_eu_01,activia_eu_01-043,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,71.1,62.5,-8.6,High Baseline
+activia_eu_01,activia_eu_01-044,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,53.3,53.3,0,Low Baseline
+activia_eu_01,activia_eu_01-044,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,53.3,45.5,-7.8,Low Baseline
+activia_eu_01,activia_eu_01-044,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,53.3,55.4,2.1,Low Baseline
+activia_eu_01,activia_eu_01-045,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,45.6,45.6,0,Low Baseline
+activia_eu_01,activia_eu_01-045,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,45.6,42.3,-3.3,Low Baseline
+activia_eu_01,activia_eu_01-045,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,45.6,41.6,-4,Low Baseline
+activia_eu_01,activia_eu_01-046,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67.2,67.2,0,High Baseline
+activia_eu_01,activia_eu_01-046,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,67.2,63.7,-3.5,High Baseline
+activia_eu_01,activia_eu_01-046,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,67.2,67.1,-0.1,High Baseline
+activia_eu_01,activia_eu_01-047,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52.3,52.3,0,Low Baseline
+activia_eu_01,activia_eu_01-047,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,52.3,44.2,-8.1,Low Baseline
+activia_eu_01,activia_eu_01-047,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,52.3,47.8,-4.5,Low Baseline
+activia_eu_01,activia_eu_01-048,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,79.3,79.3,0,High Baseline
+activia_eu_01,activia_eu_01-048,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,79.3,74.2,-5.1,High Baseline
+activia_eu_01,activia_eu_01-048,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,79.3,69,-10.3,High Baseline
+activia_eu_01,activia_eu_01-049,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.8,56.8,0,Low Baseline
+activia_eu_01,activia_eu_01-049,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,56.8,53.1,-3.7,Low Baseline
+activia_eu_01,activia_eu_01-049,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,56.8,52.9,-3.9,Low Baseline
+activia_eu_01,activia_eu_01-050,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.9,69.9,0,High Baseline
+activia_eu_01,activia_eu_01-050,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.9,64.3,-5.6,High Baseline
+activia_eu_01,activia_eu_01-050,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.9,68.9,-1,High Baseline
+activia_eu_01,activia_eu_01-051,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,65.9,65.9,0,High Baseline
+activia_eu_01,activia_eu_01-051,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,65.9,66.7,0.8,High Baseline
+activia_eu_01,activia_eu_01-051,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,65.9,55.1,-10.8,High Baseline
+activia_eu_01,activia_eu_01-052,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52.6,52.6,0,Low Baseline
+activia_eu_01,activia_eu_01-052,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,52.6,48.5,-4.1,Low Baseline
+activia_eu_01,activia_eu_01-052,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,52.6,45,-7.6,Low Baseline
+activia_eu_01,activia_eu_01-053,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,80.9,80.9,0,High Baseline
+activia_eu_01,activia_eu_01-053,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,80.9,77.8,-3.1,High Baseline
+activia_eu_01,activia_eu_01-053,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,80.9,75.9,-5,High Baseline
+activia_eu_01,activia_eu_01-054,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.7,69.7,0,High Baseline
+activia_eu_01,activia_eu_01-054,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.7,63.8,-5.9,High Baseline
+activia_eu_01,activia_eu_01-054,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.7,67.7,-2,High Baseline
+activia_eu_01,activia_eu_01-055,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.1,63.1,0,Low Baseline
+activia_eu_01,activia_eu_01-055,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,63.1,65.1,2,Low Baseline
+activia_eu_01,activia_eu_01-055,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,63.1,51.6,-11.5,Low Baseline
+activia_eu_01,activia_eu_01-056,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,65.3,65.3,0,High Baseline
+activia_eu_01,activia_eu_01-056,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,65.3,66.4,1.1,High Baseline
+activia_eu_01,activia_eu_01-056,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,65.3,59.2,-6.1,High Baseline
+activia_eu_01,activia_eu_01-057,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,70.2,70.2,0,High Baseline
+activia_eu_01,activia_eu_01-057,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,70.2,63.3,-6.9,High Baseline
+activia_eu_01,activia_eu_01-057,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,70.2,59.8,-10.4,High Baseline
+activia_eu_01,activia_eu_01-058,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.1,63.1,0,Low Baseline
+activia_eu_01,activia_eu_01-058,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,63.1,55.3,-7.8,Low Baseline
+activia_eu_01,activia_eu_01-058,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,63.1,57.9,-5.2,Low Baseline
+activia_eu_01,activia_eu_01-059,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,26.1,26.1,0,Low Baseline
+activia_eu_01,activia_eu_01-059,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,26.1,19,-7.1,Low Baseline
+activia_eu_01,activia_eu_01-059,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,26.1,17.1,-9,Low Baseline
+activia_eu_01,activia_eu_01-060,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,65.4,65.4,0,High Baseline
+activia_eu_01,activia_eu_01-060,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,65.4,58.3,-7.1,High Baseline
+activia_eu_01,activia_eu_01-060,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,65.4,57.9,-7.5,High Baseline
+activia_eu_01,activia_eu_01-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.6,57.6,0,Low Baseline
+activia_eu_01,activia_eu_01-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,57.6,58.5,0.9,Low Baseline
+activia_eu_01,activia_eu_01-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,57.6,53.1,-4.5,Low Baseline
+activia_eu_01,activia_eu_01-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,64.2,64.2,0,High Baseline
+activia_eu_01,activia_eu_01-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,64.2,61,-3.2,High Baseline
+activia_eu_01,activia_eu_01-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,64.2,62.5,-1.7,High Baseline
+activia_eu_01,activia_eu_01-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69,69,0,High Baseline
+activia_eu_01,activia_eu_01-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69,65.2,-3.8,High Baseline
+activia_eu_01,activia_eu_01-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69,52.2,-16.8,High Baseline
+activia_eu_01,activia_eu_01-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,78.8,78.8,0,High Baseline
+activia_eu_01,activia_eu_01-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,78.8,78.1,-0.7,High Baseline
+activia_eu_01,activia_eu_01-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,78.8,73,-5.8,High Baseline
+activia_eu_01,activia_eu_01-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,53.3,53.3,0,Low Baseline
+activia_eu_01,activia_eu_01-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,53.3,52,-1.3,Low Baseline
+activia_eu_01,activia_eu_01-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,53.3,45.7,-7.6,Low Baseline
+activia_eu_01,activia_eu_01-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,77.6,77.6,0,High Baseline
+activia_eu_01,activia_eu_01-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,77.6,76.5,-1.1,High Baseline
+activia_eu_01,activia_eu_01-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,77.6,66.6,-11,High Baseline
+activia_eu_01,activia_eu_01-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,66,66,0,High Baseline
+activia_eu_01,activia_eu_01-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,66,67.8,1.8,High Baseline
+activia_eu_01,activia_eu_01-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,66,63.3,-2.7,High Baseline
+activia_eu_01,activia_eu_01-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,74.5,74.5,0,High Baseline
+activia_eu_01,activia_eu_01-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,74.5,69.2,-5.3,High Baseline
+activia_eu_01,activia_eu_01-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,74.5,71,-3.5,High Baseline
+activia_eu_01,activia_eu_01-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,73,73,0,High Baseline
+activia_eu_01,activia_eu_01-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,73,71.4,-1.6,High Baseline
+activia_eu_01,activia_eu_01-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,73,76.8,3.8,High Baseline
+activia_eu_01,activia_eu_01-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,70.7,70.7,0,High Baseline
+activia_eu_01,activia_eu_01-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,70.7,59.2,-11.5,High Baseline
+activia_eu_01,activia_eu_01-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,70.7,65.8,-4.9,High Baseline
+activia_eu_01,activia_eu_01-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,49.5,49.5,0,Low Baseline
+activia_eu_01,activia_eu_01-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,49.5,48.3,-1.2,Low Baseline
+activia_eu_01,activia_eu_01-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,49.5,40.3,-9.2,Low Baseline
+activia_eu_01,activia_eu_01-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,60.9,60.9,0,Low Baseline
+activia_eu_01,activia_eu_01-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,60.9,57.4,-3.5,Low Baseline
+activia_eu_01,activia_eu_01-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,60.9,53,-7.9,Low Baseline
+activia_eu_01,activia_eu_01-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.5,69.5,0,High Baseline
+activia_eu_01,activia_eu_01-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.5,70,0.5,High Baseline
+activia_eu_01,activia_eu_01-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.5,63.9,-5.6,High Baseline
+activia_eu_01,activia_eu_01-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,50.6,50.6,0,Low Baseline
+activia_eu_01,activia_eu_01-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,50.6,47.6,-3,Low Baseline
+activia_eu_01,activia_eu_01-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,50.6,47.6,-3,Low Baseline
+activia_eu_01,activia_eu_01-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55.5,55.5,0,Low Baseline
+activia_eu_01,activia_eu_01-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,55.5,55.4,-0.1,Low Baseline
+activia_eu_01,activia_eu_01-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,55.5,48.9,-6.6,Low Baseline
+activia_eu_01,activia_eu_01-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69,69,0,High Baseline
+activia_eu_01,activia_eu_01-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69,67.9,-1.1,High Baseline
+activia_eu_01,activia_eu_01-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69,67,-2,High Baseline
+activia_eu_01,activia_eu_01-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,71.2,71.2,0,High Baseline
+activia_eu_01,activia_eu_01-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,71.2,68.1,-3.1,High Baseline
+activia_eu_01,activia_eu_01-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,71.2,64.9,-6.3,High Baseline
+activia_eu_01,activia_eu_01-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67.6,67.6,0,High Baseline
+activia_eu_01,activia_eu_01-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,67.6,60.5,-7.1,High Baseline
+activia_eu_01,activia_eu_01-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,67.6,59.1,-8.5,High Baseline
+activia_eu_01,activia_eu_01-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.4,51.4,0,Low Baseline
+activia_eu_01,activia_eu_01-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,51.4,46.7,-4.7,Low Baseline
+activia_eu_01,activia_eu_01-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,51.4,42.3,-9.1,Low Baseline
+activia_eu_01,activia_eu_01-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,48.8,48.8,0,Low Baseline
+activia_eu_01,activia_eu_01-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,48.8,40.9,-7.9,Low Baseline
+activia_eu_01,activia_eu_01-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,48.8,47,-1.8,Low Baseline
+activia_eu_01,activia_eu_01-001,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.1,5.1,0,Low Baseline
+activia_eu_01,activia_eu_01-001,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.1,3.8,-1.3,Low Baseline
+activia_eu_01,activia_eu_01-001,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.1,3.3,-1.8,Low Baseline
+activia_eu_01,activia_eu_01-002,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.1,6.1,0,High Baseline
+activia_eu_01,activia_eu_01-002,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.1,4.6,-1.5,High Baseline
+activia_eu_01,activia_eu_01-002,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.1,3.3,-2.8,High Baseline
+activia_eu_01,activia_eu_01-003,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.9,5.9,0,High Baseline
+activia_eu_01,activia_eu_01-003,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.9,5.1,-0.8,High Baseline
+activia_eu_01,activia_eu_01-003,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.9,4.3,-1.6,High Baseline
+activia_eu_01,activia_eu_01-004,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+activia_eu_01,activia_eu_01-004,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.8,4.3,-1.5,High Baseline
+activia_eu_01,activia_eu_01-004,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.8,3.3,-2.5,High Baseline
+activia_eu_01,activia_eu_01-005,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,8.5,8.5,0,High Baseline
+activia_eu_01,activia_eu_01-005,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,8.5,7,-1.5,High Baseline
+activia_eu_01,activia_eu_01-005,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,8.5,5.8,-2.7,High Baseline
+activia_eu_01,activia_eu_01-006,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+activia_eu_01,activia_eu_01-006,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.6,2.6,-2,Low Baseline
+activia_eu_01,activia_eu_01-006,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.6,2.9,-1.7,Low Baseline
+activia_eu_01,activia_eu_01-007,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.5,7.5,0,High Baseline
+activia_eu_01,activia_eu_01-007,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.5,7.1,-0.4,High Baseline
+activia_eu_01,activia_eu_01-007,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.5,5.6,-1.9,High Baseline
+activia_eu_01,activia_eu_01-008,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+activia_eu_01,activia_eu_01-008,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.8,4.7,-1.1,High Baseline
+activia_eu_01,activia_eu_01-008,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.8,3.2,-2.6,High Baseline
+activia_eu_01,activia_eu_01-009,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.5,4.5,0,Low Baseline
+activia_eu_01,activia_eu_01-009,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.5,3.6,-0.9,Low Baseline
+activia_eu_01,activia_eu_01-009,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.5,2.4,-2.1,Low Baseline
+activia_eu_01,activia_eu_01-010,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.7,5.7,0,Low Baseline
+activia_eu_01,activia_eu_01-010,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.7,4.9,-0.8,Low Baseline
+activia_eu_01,activia_eu_01-010,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.7,3.8,-1.9,Low Baseline
+activia_eu_01,activia_eu_01-011,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+activia_eu_01,activia_eu_01-011,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.9,5.5,-1.4,High Baseline
+activia_eu_01,activia_eu_01-011,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.9,4.3,-2.6,High Baseline
+activia_eu_01,activia_eu_01-012,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.2,5.2,0,Low Baseline
+activia_eu_01,activia_eu_01-012,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.2,4.3,-0.9,Low Baseline
+activia_eu_01,activia_eu_01-012,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.2,3.8,-1.4,Low Baseline
+activia_eu_01,activia_eu_01-013,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+activia_eu_01,activia_eu_01-013,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.6,3.6,-1,Low Baseline
+activia_eu_01,activia_eu_01-013,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.6,2.2,-2.4,Low Baseline
+activia_eu_01,activia_eu_01-014,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6,6,0,High Baseline
+activia_eu_01,activia_eu_01-014,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6,5.5,-0.5,High Baseline
+activia_eu_01,activia_eu_01-014,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6,3.8,-2.2,High Baseline
+activia_eu_01,activia_eu_01-015,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.3,7.3,0,High Baseline
+activia_eu_01,activia_eu_01-015,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.3,5.7,-1.6,High Baseline
+activia_eu_01,activia_eu_01-015,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.3,5.4,-1.9,High Baseline
+activia_eu_01,activia_eu_01-016,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.7,5.7,0,Low Baseline
+activia_eu_01,activia_eu_01-016,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.7,5,-0.7,Low Baseline
+activia_eu_01,activia_eu_01-016,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.7,3.8,-1.9,Low Baseline
+activia_eu_01,activia_eu_01-017,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,3.7,3.7,0,Low Baseline
+activia_eu_01,activia_eu_01-017,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,3.7,3.1,-0.6,Low Baseline
+activia_eu_01,activia_eu_01-017,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,3.7,1.2,-2.5,Low Baseline
+activia_eu_01,activia_eu_01-018,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,3.8,3.8,0,Low Baseline
+activia_eu_01,activia_eu_01-018,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,3.8,3,-0.8,Low Baseline
+activia_eu_01,activia_eu_01-018,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,3.8,1.8,-2,Low Baseline
+activia_eu_01,activia_eu_01-019,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+activia_eu_01,activia_eu_01-019,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.6,3.5,-1.1,Low Baseline
+activia_eu_01,activia_eu_01-019,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.6,3.6,-1,Low Baseline
+activia_eu_01,activia_eu_01-020,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5,5,0,Low Baseline
+activia_eu_01,activia_eu_01-020,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5,5.6,0.6,Low Baseline
+activia_eu_01,activia_eu_01-020,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5,2.8,-2.2,Low Baseline
+activia_eu_01,activia_eu_01-021,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+activia_eu_01,activia_eu_01-021,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.8,5.7,-0.1,High Baseline
+activia_eu_01,activia_eu_01-021,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.8,3.6,-2.2,High Baseline
+activia_eu_01,activia_eu_01-022,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.8,6.8,0,High Baseline
+activia_eu_01,activia_eu_01-022,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.8,5.1,-1.7,High Baseline
+activia_eu_01,activia_eu_01-022,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.8,4.4,-2.4,High Baseline
+activia_eu_01,activia_eu_01-023,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.1,5.1,0,Low Baseline
+activia_eu_01,activia_eu_01-023,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.1,4.6,-0.5,Low Baseline
+activia_eu_01,activia_eu_01-023,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.1,2.2,-2.9,Low Baseline
+activia_eu_01,activia_eu_01-024,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.1,4.1,0,Low Baseline
+activia_eu_01,activia_eu_01-024,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.1,3.2,-0.9,Low Baseline
+activia_eu_01,activia_eu_01-024,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.1,1.6,-2.5,Low Baseline
+activia_eu_01,activia_eu_01-025,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.7,6.7,0,High Baseline
+activia_eu_01,activia_eu_01-025,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.7,4.3,-2.4,High Baseline
+activia_eu_01,activia_eu_01-025,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.7,4.4,-2.3,High Baseline
+activia_eu_01,activia_eu_01-026,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.2,6.2,0,High Baseline
+activia_eu_01,activia_eu_01-026,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.2,4.8,-1.4,High Baseline
+activia_eu_01,activia_eu_01-026,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.2,3.7,-2.5,High Baseline
+activia_eu_01,activia_eu_01-027,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.5,7.5,0,High Baseline
+activia_eu_01,activia_eu_01-027,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.5,6.5,-1,High Baseline
+activia_eu_01,activia_eu_01-027,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.5,5,-2.5,High Baseline
+activia_eu_01,activia_eu_01-028,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+activia_eu_01,activia_eu_01-028,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,3.3,1.7,-1.6,Low Baseline
+activia_eu_01,activia_eu_01-028,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,3.3,0.8,-2.5,Low Baseline
+activia_eu_01,activia_eu_01-029,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.9,5.9,0,High Baseline
+activia_eu_01,activia_eu_01-029,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.9,4.6,-1.3,High Baseline
+activia_eu_01,activia_eu_01-029,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.9,3.7,-2.2,High Baseline
+activia_eu_01,activia_eu_01-030,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.8,7.8,0,High Baseline
+activia_eu_01,activia_eu_01-030,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.8,6.4,-1.4,High Baseline
+activia_eu_01,activia_eu_01-030,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.8,5.7,-2.1,High Baseline
+activia_eu_01,activia_eu_01-031,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+activia_eu_01,activia_eu_01-031,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.9,5.7,-1.2,High Baseline
+activia_eu_01,activia_eu_01-031,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.9,4.5,-2.4,High Baseline
+activia_eu_01,activia_eu_01-032,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+activia_eu_01,activia_eu_01-032,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.6,3.4,-1.2,Low Baseline
+activia_eu_01,activia_eu_01-032,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.6,3.1,-1.5,Low Baseline
+activia_eu_01,activia_eu_01-033,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+activia_eu_01,activia_eu_01-033,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.9,5.1,-1.8,High Baseline
+activia_eu_01,activia_eu_01-033,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.9,4.6,-2.3,High Baseline
+activia_eu_01,activia_eu_01-034,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.5,4.5,0,Low Baseline
+activia_eu_01,activia_eu_01-034,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.5,4.1,-0.4,Low Baseline
+activia_eu_01,activia_eu_01-034,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.5,3.2,-1.3,Low Baseline
+activia_eu_01,activia_eu_01-035,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.1,5.1,0,Low Baseline
+activia_eu_01,activia_eu_01-035,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.1,4.3,-0.8,Low Baseline
+activia_eu_01,activia_eu_01-035,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.1,2.9,-2.2,Low Baseline
+activia_eu_01,activia_eu_01-036,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.6,7.6,0,High Baseline
+activia_eu_01,activia_eu_01-036,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.6,5.9,-1.7,High Baseline
+activia_eu_01,activia_eu_01-036,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.6,4.8,-2.8,High Baseline
+activia_eu_01,activia_eu_01-037,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.4,5.4,0,Low Baseline
+activia_eu_01,activia_eu_01-037,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.4,4.9,-0.5,Low Baseline
+activia_eu_01,activia_eu_01-037,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.4,4.2,-1.2,Low Baseline
+activia_eu_01,activia_eu_01-038,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7,7,0,High Baseline
+activia_eu_01,activia_eu_01-038,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7,5.3,-1.7,High Baseline
+activia_eu_01,activia_eu_01-038,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7,4.6,-2.4,High Baseline
+activia_eu_01,activia_eu_01-039,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.4,5.4,0,Low Baseline
+activia_eu_01,activia_eu_01-039,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.4,5.5,0.1,Low Baseline
+activia_eu_01,activia_eu_01-039,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.4,2.7,-2.7,Low Baseline
+activia_eu_01,activia_eu_01-040,Active,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,3.4,3.4,0,Low Baseline
+activia_eu_01,activia_eu_01-040,Active,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,3.4,3.3,-0.1,Low Baseline
+activia_eu_01,activia_eu_01-040,Active,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,3.4,1.6,-1.8,Low Baseline
+activia_eu_01,activia_eu_01-041,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.5,4.5,0,Low Baseline
+activia_eu_01,activia_eu_01-041,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.5,4.1,-0.4,Low Baseline
+activia_eu_01,activia_eu_01-041,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.5,4.3,-0.2,Low Baseline
+activia_eu_01,activia_eu_01-042,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.2,4.2,0,Low Baseline
+activia_eu_01,activia_eu_01-042,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.2,5.6,1.4,Low Baseline
+activia_eu_01,activia_eu_01-042,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.2,4.2,0,Low Baseline
+activia_eu_01,activia_eu_01-043,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.1,5.1,0,Low Baseline
+activia_eu_01,activia_eu_01-043,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.1,4.5,-0.6,Low Baseline
+activia_eu_01,activia_eu_01-043,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.1,4.8,-0.3,Low Baseline
+activia_eu_01,activia_eu_01-044,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.3,5.3,0,Low Baseline
+activia_eu_01,activia_eu_01-044,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.3,4.1,-1.2,Low Baseline
+activia_eu_01,activia_eu_01-044,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.3,4.2,-1.1,Low Baseline
+activia_eu_01,activia_eu_01-045,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.6,5.6,0,Low Baseline
+activia_eu_01,activia_eu_01-045,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.6,6,0.4,Low Baseline
+activia_eu_01,activia_eu_01-045,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.6,5,-0.6,Low Baseline
+activia_eu_01,activia_eu_01-046,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.4,5.4,0,Low Baseline
+activia_eu_01,activia_eu_01-046,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.4,5.1,-0.3,Low Baseline
+activia_eu_01,activia_eu_01-046,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.4,4.5,-0.9,Low Baseline
+activia_eu_01,activia_eu_01-047,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,8.6,8.6,0,High Baseline
+activia_eu_01,activia_eu_01-047,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,8.6,7.8,-0.8,High Baseline
+activia_eu_01,activia_eu_01-047,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,8.6,8,-0.6,High Baseline
+activia_eu_01,activia_eu_01-048,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,3.7,3.7,0,Low Baseline
+activia_eu_01,activia_eu_01-048,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,3.7,3.7,0,Low Baseline
+activia_eu_01,activia_eu_01-048,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,3.7,4,0.3,Low Baseline
+activia_eu_01,activia_eu_01-049,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.2,5.2,0,Low Baseline
+activia_eu_01,activia_eu_01-049,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.2,5.6,0.4,Low Baseline
+activia_eu_01,activia_eu_01-049,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.2,5.1,-0.1,Low Baseline
+activia_eu_01,activia_eu_01-050,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.3,6.3,0,High Baseline
+activia_eu_01,activia_eu_01-050,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.3,6.1,-0.2,High Baseline
+activia_eu_01,activia_eu_01-050,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.3,6.5,0.2,High Baseline
+activia_eu_01,activia_eu_01-051,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,8.2,8.2,0,High Baseline
+activia_eu_01,activia_eu_01-051,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,8.2,8.1,-0.1,High Baseline
+activia_eu_01,activia_eu_01-051,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,8.2,7.6,-0.6,High Baseline
+activia_eu_01,activia_eu_01-052,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.9,5.9,0,High Baseline
+activia_eu_01,activia_eu_01-052,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.9,6,0.1,High Baseline
+activia_eu_01,activia_eu_01-052,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.9,5.6,-0.3,High Baseline
+activia_eu_01,activia_eu_01-053,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.7,7.7,0,High Baseline
+activia_eu_01,activia_eu_01-053,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.7,6.7,-1,High Baseline
+activia_eu_01,activia_eu_01-053,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.7,7.7,0,High Baseline
+activia_eu_01,activia_eu_01-054,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+activia_eu_01,activia_eu_01-054,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,3.3,3.3,0,Low Baseline
+activia_eu_01,activia_eu_01-054,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,3.3,2.8,-0.5,Low Baseline
+activia_eu_01,activia_eu_01-055,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,8,8,0,High Baseline
+activia_eu_01,activia_eu_01-055,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,8,7.8,-0.2,High Baseline
+activia_eu_01,activia_eu_01-055,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,8,6.7,-1.3,High Baseline
+activia_eu_01,activia_eu_01-056,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.8,4.8,0,Low Baseline
+activia_eu_01,activia_eu_01-056,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.8,4.8,0,Low Baseline
+activia_eu_01,activia_eu_01-056,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.8,4.3,-0.5,Low Baseline
+activia_eu_01,activia_eu_01-057,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.4,5.4,0,Low Baseline
+activia_eu_01,activia_eu_01-057,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.4,5,-0.4,Low Baseline
+activia_eu_01,activia_eu_01-057,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.4,4.6,-0.8,Low Baseline
+activia_eu_01,activia_eu_01-058,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.1,4.1,0,Low Baseline
+activia_eu_01,activia_eu_01-058,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.1,3.4,-0.7,Low Baseline
+activia_eu_01,activia_eu_01-058,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.1,2.6,-1.5,Low Baseline
+activia_eu_01,activia_eu_01-059,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6,6,0,High Baseline
+activia_eu_01,activia_eu_01-059,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6,6.3,0.3,High Baseline
+activia_eu_01,activia_eu_01-059,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6,6.4,0.4,High Baseline
+activia_eu_01,activia_eu_01-060,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,8.5,8.5,0,High Baseline
+activia_eu_01,activia_eu_01-060,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,8.5,8.2,-0.3,High Baseline
+activia_eu_01,activia_eu_01-060,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,8.5,8.5,0,High Baseline
+activia_eu_01,activia_eu_01-061,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,9.4,9.4,0,High Baseline
+activia_eu_01,activia_eu_01-061,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,9.4,8.9,-0.5,High Baseline
+activia_eu_01,activia_eu_01-061,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,9.4,8,-1.4,High Baseline
+activia_eu_01,activia_eu_01-062,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,4.2,4.2,0,Low Baseline
+activia_eu_01,activia_eu_01-062,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,4.2,4.2,0,Low Baseline
+activia_eu_01,activia_eu_01-062,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,4.2,3,-1.2,Low Baseline
+activia_eu_01,activia_eu_01-063,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.5,6.5,0,High Baseline
+activia_eu_01,activia_eu_01-063,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.5,5.6,-0.9,High Baseline
+activia_eu_01,activia_eu_01-063,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.5,5.9,-0.6,High Baseline
+activia_eu_01,activia_eu_01-064,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.9,7.9,0,High Baseline
+activia_eu_01,activia_eu_01-064,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.9,7.6,-0.3,High Baseline
+activia_eu_01,activia_eu_01-064,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.9,7.5,-0.4,High Baseline
+activia_eu_01,activia_eu_01-065,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.5,5.5,0,Low Baseline
+activia_eu_01,activia_eu_01-065,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.5,5.2,-0.3,Low Baseline
+activia_eu_01,activia_eu_01-065,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.5,4.9,-0.6,Low Baseline
+activia_eu_01,activia_eu_01-066,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.5,5.5,0,Low Baseline
+activia_eu_01,activia_eu_01-066,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.5,5,-0.5,Low Baseline
+activia_eu_01,activia_eu_01-066,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.5,5.8,0.3,Low Baseline
+activia_eu_01,activia_eu_01-067,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.3,5.3,0,Low Baseline
+activia_eu_01,activia_eu_01-067,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.3,5.6,0.3,Low Baseline
+activia_eu_01,activia_eu_01-067,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.3,4.7,-0.6,Low Baseline
+activia_eu_01,activia_eu_01-068,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.7,6.7,0,High Baseline
+activia_eu_01,activia_eu_01-068,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.7,6.9,0.2,High Baseline
+activia_eu_01,activia_eu_01-068,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.7,6.6,-0.1,High Baseline
+activia_eu_01,activia_eu_01-069,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.9,7.9,0,High Baseline
+activia_eu_01,activia_eu_01-069,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.9,8.4,0.5,High Baseline
+activia_eu_01,activia_eu_01-069,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.9,6.6,-1.3,High Baseline
+activia_eu_01,activia_eu_01-070,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.8,6.8,0,High Baseline
+activia_eu_01,activia_eu_01-070,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.8,6.3,-0.5,High Baseline
+activia_eu_01,activia_eu_01-070,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.8,5.3,-1.5,High Baseline
+activia_eu_01,activia_eu_01-071,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.3,6.3,0,High Baseline
+activia_eu_01,activia_eu_01-071,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.3,6.2,-0.1,High Baseline
+activia_eu_01,activia_eu_01-071,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.3,6.9,0.6,High Baseline
+activia_eu_01,activia_eu_01-072,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.3,5.3,0,Low Baseline
+activia_eu_01,activia_eu_01-072,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.3,5.6,0.3,Low Baseline
+activia_eu_01,activia_eu_01-072,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.3,5.2,-0.1,Low Baseline
+activia_eu_01,activia_eu_01-073,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.5,6.5,0,High Baseline
+activia_eu_01,activia_eu_01-073,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.5,6.7,0.2,High Baseline
+activia_eu_01,activia_eu_01-073,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.5,6.2,-0.3,High Baseline
+activia_eu_01,activia_eu_01-074,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5,5,0,Low Baseline
+activia_eu_01,activia_eu_01-074,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5,5.3,0.3,Low Baseline
+activia_eu_01,activia_eu_01-074,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5,4.9,-0.1,Low Baseline
+activia_eu_01,activia_eu_01-075,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.4,5.4,0,Low Baseline
+activia_eu_01,activia_eu_01-075,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.4,5.3,-0.1,Low Baseline
+activia_eu_01,activia_eu_01-075,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.4,4.5,-0.9,Low Baseline
+activia_eu_01,activia_eu_01-076,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.4,7.4,0,High Baseline
+activia_eu_01,activia_eu_01-076,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.4,6.9,-0.5,High Baseline
+activia_eu_01,activia_eu_01-076,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.4,7.1,-0.3,High Baseline
+activia_eu_01,activia_eu_01-077,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.5,6.5,0,High Baseline
+activia_eu_01,activia_eu_01-077,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.5,6.1,-0.4,High Baseline
+activia_eu_01,activia_eu_01-077,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.5,6.2,-0.3,High Baseline
+activia_eu_01,activia_eu_01-078,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,6.2,6.2,0,High Baseline
+activia_eu_01,activia_eu_01-078,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,6.2,5.8,-0.4,High Baseline
+activia_eu_01,activia_eu_01-078,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,6.2,6.3,0.1,High Baseline
+activia_eu_01,activia_eu_01-079,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,5.4,5.4,0,Low Baseline
+activia_eu_01,activia_eu_01-079,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,5.4,4.8,-0.6,Low Baseline
+activia_eu_01,activia_eu_01-079,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,5.4,4.5,-0.9,Low Baseline
+activia_eu_01,activia_eu_01-080,Placebo,BLOAT_SCR,Bloating Score (0-10),0,Baseline,Y,NA,7.2,7.2,0,High Baseline
+activia_eu_01,activia_eu_01-080,Placebo,BLOAT_SCR,Bloating Score (0-10),4,Week 4,NA,NA,7.2,6.5,-0.7,High Baseline
+activia_eu_01,activia_eu_01-080,Placebo,BLOAT_SCR,Bloating Score (0-10),8,Week 8,NA,Y,7.2,6.5,-0.7,High Baseline

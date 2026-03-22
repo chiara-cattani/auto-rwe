@@ -1,0 +1,12 @@
+study_id,analysis_family,endpoint_role,dataset_name,variable_name,baseline_rule,postbaseline_rule,analysis_window_rule,higher_is_better
+activia_eu_01,digestive_health,primary_endpoint,ADQS,GUT_COMFORT,ABLFL=Y,ANL01FL=Y,AVISITN=8,FALSE
+actimel_asia_02,digestive_health,primary_endpoint,ADQS,BLOAT_IDX,ABLFL=Y,ANL01FL=Y,AVISITN=12,FALSE
+danone_elderly_03,digestive_health,primary_endpoint,ADQS,BOWEL_REG,ABLFL=Y,ANL01FL=Y,AVISITN=6,FALSE
+activia_us_04,digestive_health,primary_endpoint,ADQS,GUT_COMFORT,ABLFL=Y,ANL01FL=Y,AVISITN=8,FALSE
+activia_japan_05,digestive_health,primary_endpoint,ADQS,GUT_COMFORT,ABLFL=Y,ANL01FL=Y,AVISITN=12,FALSE
+activia_eu_01,digestive_health,secondary_bloating,ADQS,BLOAT_SCR,ABLFL=Y,ANL01FL=Y,AVISITN=8,FALSE
+actimel_asia_02,digestive_health,secondary_bloating,ADQS,BLOAT_SCR,ABLFL=Y,ANL01FL=Y,AVISITN=12,FALSE
+densia_eu_01,bone_joint_health,primary_endpoint,ADQS,BONE_DENS,ABLFL=Y,ANL01FL=Y,AVISITN=24,TRUE
+densia_global_02,bone_joint_health,primary_endpoint,ADQS,JOINT_FLEX,ABLFL=Y,ANL01FL=Y,AVISITN=12,TRUE
+actimel_immune_eu_01,immune_support,primary_endpoint,ADQS,IMMUNE_SCR,ABLFL=Y,ANL01FL=Y,AVISITN=8,TRUE
+actimel_immune_elder_02,immune_support,primary_endpoint,ADQS,COLD_FREQ,ABLFL=Y,ANL01FL=Y,AVISITN=12,FALSE

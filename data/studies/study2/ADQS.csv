@@ -1,0 +1,601 @@
+STUDYID,USUBJID,TRT01A,PARAMCD,PARAM,AVISITN,AVISIT,ABLFL,ANL01FL,BASE,AVAL,CHG,SUBGRP
+study2,study2-001,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.1,6.1,0,Low Baseline
+study2,study2-001,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.1,3.8,-2.3,Low Baseline
+study2,study2-001,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.1,4.1,-2,Low Baseline
+study2,study2-002,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.1,7.1,0,High Baseline
+study2,study2-002,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.1,5.8,-1.3,High Baseline
+study2,study2-002,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.1,4.4,-2.7,High Baseline
+study2,study2-003,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+study2,study2-003,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.9,5.3,-1.6,High Baseline
+study2,study2-003,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.9,4.3,-2.6,High Baseline
+study2,study2-004,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.8,6.8,0,High Baseline
+study2,study2-004,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.8,6.2,-0.6,High Baseline
+study2,study2-004,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.8,3.8,-3,High Baseline
+study2,study2-005,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,9.3,9.3,0,High Baseline
+study2,study2-005,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,9.3,6.6,-2.7,High Baseline
+study2,study2-005,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,9.3,6.5,-2.8,High Baseline
+study2,study2-006,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.6,5.6,0,Low Baseline
+study2,study2-006,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.6,3,-2.6,Low Baseline
+study2,study2-006,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.6,3.3,-2.3,Low Baseline
+study2,study2-007,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.4,8.4,0,High Baseline
+study2,study2-007,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.4,7.4,-1,High Baseline
+study2,study2-007,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.4,6.5,-1.9,High Baseline
+study2,study2-008,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.8,6.8,0,High Baseline
+study2,study2-008,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.8,5.8,-1,High Baseline
+study2,study2-008,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.8,3.5,-3.3,High Baseline
+study2,study2-009,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.6,5.6,0,Low Baseline
+study2,study2-009,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.6,3.8,-1.8,Low Baseline
+study2,study2-009,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.6,3.7,-1.9,Low Baseline
+study2,study2-010,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.7,6.7,0,High Baseline
+study2,study2-010,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.7,4.7,-2,High Baseline
+study2,study2-010,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.7,4.3,-2.4,High Baseline
+study2,study2-011,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.8,7.8,0,High Baseline
+study2,study2-011,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.8,5.8,-2,High Baseline
+study2,study2-011,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.8,5.2,-2.6,High Baseline
+study2,study2-012,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.2,6.2,0,Low Baseline
+study2,study2-012,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.2,4.9,-1.3,Low Baseline
+study2,study2-012,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.2,3.9,-2.3,Low Baseline
+study2,study2-013,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.7,5.7,0,Low Baseline
+study2,study2-013,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.7,4.7,-1,Low Baseline
+study2,study2-013,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.7,5.4,-0.3,Low Baseline
+study2,study2-014,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7,7,0,High Baseline
+study2,study2-014,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7,5.7,-1.3,High Baseline
+study2,study2-014,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7,5.5,-1.5,High Baseline
+study2,study2-015,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.2,8.2,0,High Baseline
+study2,study2-015,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.2,5.7,-2.5,High Baseline
+study2,study2-015,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.2,4.9,-3.3,High Baseline
+study2,study2-016,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.7,6.7,0,High Baseline
+study2,study2-016,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.7,5.7,-1,High Baseline
+study2,study2-016,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.7,4.4,-2.3,High Baseline
+study2,study2-017,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,4.9,4.9,0,Low Baseline
+study2,study2-017,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,4.9,3.1,-1.8,Low Baseline
+study2,study2-017,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,4.9,2.8,-2.1,Low Baseline
+study2,study2-018,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5,5,0,Low Baseline
+study2,study2-018,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5,4,-1,Low Baseline
+study2,study2-018,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5,1.4,-3.6,Low Baseline
+study2,study2-019,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.7,5.7,0,Low Baseline
+study2,study2-019,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.7,4.1,-1.6,Low Baseline
+study2,study2-019,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.7,3.3,-2.4,Low Baseline
+study2,study2-020,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.1,6.1,0,Low Baseline
+study2,study2-020,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.1,4.9,-1.2,Low Baseline
+study2,study2-020,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.1,4.2,-1.9,Low Baseline
+study2,study2-021,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.8,6.8,0,High Baseline
+study2,study2-021,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.8,3.8,-3,High Baseline
+study2,study2-021,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.8,3.2,-3.6,High Baseline
+study2,study2-022,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.7,7.7,0,High Baseline
+study2,study2-022,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.7,6.3,-1.4,High Baseline
+study2,study2-022,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.7,4.8,-2.9,High Baseline
+study2,study2-023,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.2,6.2,0,Low Baseline
+study2,study2-023,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.2,3.9,-2.3,Low Baseline
+study2,study2-023,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.2,3.8,-2.4,Low Baseline
+study2,study2-024,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.2,5.2,0,Low Baseline
+study2,study2-024,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.2,3.7,-1.5,Low Baseline
+study2,study2-024,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.2,3,-2.2,Low Baseline
+study2,study2-025,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.6,7.6,0,High Baseline
+study2,study2-025,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.6,6.5,-1.1,High Baseline
+study2,study2-025,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.6,4.5,-3.1,High Baseline
+study2,study2-026,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.2,7.2,0,High Baseline
+study2,study2-026,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.2,5.9,-1.3,High Baseline
+study2,study2-026,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.2,3.8,-3.4,High Baseline
+study2,study2-027,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.4,8.4,0,High Baseline
+study2,study2-027,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.4,6.6,-1.8,High Baseline
+study2,study2-027,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.4,6.3,-2.1,High Baseline
+study2,study2-028,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,4.4,4.4,0,Low Baseline
+study2,study2-028,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,4.4,3,-1.4,Low Baseline
+study2,study2-028,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,4.4,2.4,-2,Low Baseline
+study2,study2-029,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+study2,study2-029,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.9,5,-1.9,High Baseline
+study2,study2-029,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.9,3.6,-3.3,High Baseline
+study2,study2-030,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.7,8.7,0,High Baseline
+study2,study2-030,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.7,6.1,-2.6,High Baseline
+study2,study2-030,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.7,6.5,-2.2,High Baseline
+study2,study2-031,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.8,7.8,0,High Baseline
+study2,study2-031,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.8,5.7,-2.1,High Baseline
+study2,study2-031,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.8,4.4,-3.4,High Baseline
+study2,study2-032,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.6,5.6,0,Low Baseline
+study2,study2-032,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.6,5.5,-0.1,Low Baseline
+study2,study2-032,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.6,4.7,-0.9,Low Baseline
+study2,study2-033,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.8,7.8,0,High Baseline
+study2,study2-033,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.8,5.8,-2,High Baseline
+study2,study2-033,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.8,6,-1.8,High Baseline
+study2,study2-034,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.6,5.6,0,Low Baseline
+study2,study2-034,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.6,5.2,-0.4,Low Baseline
+study2,study2-034,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.6,3.3,-2.3,Low Baseline
+study2,study2-035,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.2,6.2,0,Low Baseline
+study2,study2-035,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.2,4.9,-1.3,Low Baseline
+study2,study2-035,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.2,6,-0.2,Low Baseline
+study2,study2-036,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.5,8.5,0,High Baseline
+study2,study2-036,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.5,6,-2.5,High Baseline
+study2,study2-036,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.5,5.4,-3.1,High Baseline
+study2,study2-037,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-037,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,3.9,-2.5,Low Baseline
+study2,study2-037,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,3.2,-3.2,Low Baseline
+study2,study2-038,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8,8,0,High Baseline
+study2,study2-038,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8,6,-2,High Baseline
+study2,study2-038,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8,6,-2,High Baseline
+study2,study2-039,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-039,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,5.1,-1.3,Low Baseline
+study2,study2-039,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,4.3,-2.1,Low Baseline
+study2,study2-040,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+study2,study2-040,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,4.6,4,-0.6,Low Baseline
+study2,study2-040,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,4.6,1.8,-2.8,Low Baseline
+study2,study2-041,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.6,5.6,0,Low Baseline
+study2,study2-041,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.6,4,-1.6,Low Baseline
+study2,study2-041,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.6,3.8,-1.8,Low Baseline
+study2,study2-042,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.3,5.3,0,Low Baseline
+study2,study2-042,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.3,4.2,-1.1,Low Baseline
+study2,study2-042,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.3,4,-1.3,Low Baseline
+study2,study2-043,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.1,6.1,0,Low Baseline
+study2,study2-043,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.1,4.3,-1.8,Low Baseline
+study2,study2-043,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.1,4,-2.1,Low Baseline
+study2,study2-044,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.3,6.3,0,Low Baseline
+study2,study2-044,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.3,4,-2.3,Low Baseline
+study2,study2-044,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.3,4.4,-1.9,Low Baseline
+study2,study2-045,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.6,6.6,0,Low Baseline
+study2,study2-045,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.6,5.7,-0.9,Low Baseline
+study2,study2-045,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.6,5,-1.6,Low Baseline
+study2,study2-046,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.5,6.5,0,Low Baseline
+study2,study2-046,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.5,6,-0.5,Low Baseline
+study2,study2-046,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.5,3.5,-3,Low Baseline
+study2,study2-047,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,9.4,9.4,0,High Baseline
+study2,study2-047,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,9.4,6.6,-2.8,High Baseline
+study2,study2-047,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,9.4,7,-2.4,High Baseline
+study2,study2-048,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,4.9,4.9,0,Low Baseline
+study2,study2-048,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,4.9,4.1,-0.8,Low Baseline
+study2,study2-048,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,4.9,2.8,-2.1,Low Baseline
+study2,study2-049,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.2,6.2,0,Low Baseline
+study2,study2-049,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.2,3.6,-2.6,Low Baseline
+study2,study2-049,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.2,4.4,-1.8,Low Baseline
+study2,study2-050,Active,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.3,7.3,0,High Baseline
+study2,study2-050,Active,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.3,5.1,-2.2,High Baseline
+study2,study2-050,Active,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.3,4.4,-2.9,High Baseline
+study2,study2-051,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,9.1,9.1,0,High Baseline
+study2,study2-051,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,9.1,8.6,-0.5,High Baseline
+study2,study2-051,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,9.1,7.9,-1.2,High Baseline
+study2,study2-052,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+study2,study2-052,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.9,6.4,-0.5,High Baseline
+study2,study2-052,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.9,6.9,0,High Baseline
+study2,study2-053,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.5,8.5,0,High Baseline
+study2,study2-053,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.5,8.1,-0.4,High Baseline
+study2,study2-053,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.5,7.9,-0.6,High Baseline
+study2,study2-054,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,4.5,4.5,0,Low Baseline
+study2,study2-054,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,4.5,4.1,-0.4,Low Baseline
+study2,study2-054,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,4.5,3.6,-0.9,Low Baseline
+study2,study2-055,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.8,8.8,0,High Baseline
+study2,study2-055,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.8,7.6,-1.2,High Baseline
+study2,study2-055,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.8,8.4,-0.4,High Baseline
+study2,study2-056,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.8,5.8,0,Low Baseline
+study2,study2-056,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.8,6,0.2,Low Baseline
+study2,study2-056,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.8,4.4,-1.4,Low Baseline
+study2,study2-057,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-057,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,6,-0.4,Low Baseline
+study2,study2-057,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,5.8,-0.6,Low Baseline
+study2,study2-058,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.2,5.2,0,Low Baseline
+study2,study2-058,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.2,5.2,0,Low Baseline
+study2,study2-058,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.2,4.5,-0.7,Low Baseline
+study2,study2-059,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7,7,0,High Baseline
+study2,study2-059,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7,6.7,-0.3,High Baseline
+study2,study2-059,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7,6.1,-0.9,High Baseline
+study2,study2-060,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,9.3,9.3,0,High Baseline
+study2,study2-060,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,9.3,7.6,-1.7,High Baseline
+study2,study2-060,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,9.3,9.3,0,High Baseline
+study2,study2-061,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,10.2,10.2,0,High Baseline
+study2,study2-061,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,10.2,10.1,-0.1,High Baseline
+study2,study2-061,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,10.2,10.2,0,High Baseline
+study2,study2-062,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.3,5.3,0,Low Baseline
+study2,study2-062,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.3,4.5,-0.8,Low Baseline
+study2,study2-062,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.3,5.6,0.3,Low Baseline
+study2,study2-063,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.5,7.5,0,High Baseline
+study2,study2-063,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.5,7.6,0.1,High Baseline
+study2,study2-063,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.5,6.6,-0.9,High Baseline
+study2,study2-064,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.7,8.7,0,High Baseline
+study2,study2-064,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.7,7.2,-1.5,High Baseline
+study2,study2-064,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.7,8.2,-0.5,High Baseline
+study2,study2-065,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.5,6.5,0,Low Baseline
+study2,study2-065,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.5,6.3,-0.2,Low Baseline
+study2,study2-065,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.5,6.6,0.1,Low Baseline
+study2,study2-066,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.5,6.5,0,Low Baseline
+study2,study2-066,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.5,5.7,-0.8,Low Baseline
+study2,study2-066,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.5,6.5,0,Low Baseline
+study2,study2-067,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-067,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,6.1,-0.3,Low Baseline
+study2,study2-067,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,6.4,0,Low Baseline
+study2,study2-068,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.6,7.6,0,High Baseline
+study2,study2-068,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.6,6.8,-0.8,High Baseline
+study2,study2-068,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.6,7.2,-0.4,High Baseline
+study2,study2-069,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.8,8.8,0,High Baseline
+study2,study2-069,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.8,8.8,0,High Baseline
+study2,study2-069,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.8,7.9,-0.9,High Baseline
+study2,study2-070,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.8,7.8,0,High Baseline
+study2,study2-070,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.8,7.6,-0.2,High Baseline
+study2,study2-070,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.8,7,-0.8,High Baseline
+study2,study2-071,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.2,7.2,0,High Baseline
+study2,study2-071,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.2,7.1,-0.1,High Baseline
+study2,study2-071,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.2,6.5,-0.7,High Baseline
+study2,study2-072,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-072,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,6.8,0.4,Low Baseline
+study2,study2-072,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,5.4,-1,Low Baseline
+study2,study2-073,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.5,7.5,0,High Baseline
+study2,study2-073,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.5,7.4,-0.1,High Baseline
+study2,study2-073,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.5,6.4,-1.1,High Baseline
+study2,study2-074,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6,6,0,Low Baseline
+study2,study2-074,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6,6.1,0.1,Low Baseline
+study2,study2-074,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6,5.1,-0.9,Low Baseline
+study2,study2-075,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-075,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,6.4,0,Low Baseline
+study2,study2-075,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,4.8,-1.6,Low Baseline
+study2,study2-076,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.3,8.3,0,High Baseline
+study2,study2-076,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.3,6.1,-2.2,High Baseline
+study2,study2-076,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.3,8.2,-0.1,High Baseline
+study2,study2-077,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.4,7.4,0,High Baseline
+study2,study2-077,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.4,7.3,-0.1,High Baseline
+study2,study2-077,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.4,7.3,-0.1,High Baseline
+study2,study2-078,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.1,7.1,0,High Baseline
+study2,study2-078,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.1,6,-1.1,High Baseline
+study2,study2-078,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.1,6.8,-0.3,High Baseline
+study2,study2-079,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-079,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,5.1,-1.3,Low Baseline
+study2,study2-079,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,5.4,-1,Low Baseline
+study2,study2-080,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.1,8.1,0,High Baseline
+study2,study2-080,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.1,6.9,-1.2,High Baseline
+study2,study2-080,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.1,7.9,-0.2,High Baseline
+study2,study2-081,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.7,8.7,0,High Baseline
+study2,study2-081,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.7,9.1,0.4,High Baseline
+study2,study2-081,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.7,8.1,-0.6,High Baseline
+study2,study2-082,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.6,5.6,0,Low Baseline
+study2,study2-082,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.6,6.1,0.5,Low Baseline
+study2,study2-082,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.6,5.2,-0.4,Low Baseline
+study2,study2-083,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+study2,study2-083,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.9,6.6,-0.3,High Baseline
+study2,study2-083,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.9,5.4,-1.5,High Baseline
+study2,study2-084,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+study2,study2-084,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.9,6.9,0,High Baseline
+study2,study2-084,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.9,6.6,-0.3,High Baseline
+study2,study2-085,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6,6,0,Low Baseline
+study2,study2-085,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6,4.9,-1.1,Low Baseline
+study2,study2-085,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6,5.8,-0.2,Low Baseline
+study2,study2-086,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.4,5.4,0,Low Baseline
+study2,study2-086,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.4,4.2,-1.2,Low Baseline
+study2,study2-086,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.4,5.2,-0.2,Low Baseline
+study2,study2-087,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.8,6.8,0,High Baseline
+study2,study2-087,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.8,6.5,-0.3,High Baseline
+study2,study2-087,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.8,6.2,-0.6,High Baseline
+study2,study2-088,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.7,7.7,0,High Baseline
+study2,study2-088,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.7,8,0.3,High Baseline
+study2,study2-088,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.7,6.7,-1,High Baseline
+study2,study2-089,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.9,8.9,0,High Baseline
+study2,study2-089,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.9,8.2,-0.7,High Baseline
+study2,study2-089,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.9,8,-0.9,High Baseline
+study2,study2-090,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,4.1,4.1,0,Low Baseline
+study2,study2-090,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,4.1,3.5,-0.6,Low Baseline
+study2,study2-090,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,4.1,3.3,-0.8,Low Baseline
+study2,study2-091,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.8,5.8,0,Low Baseline
+study2,study2-091,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.8,4.7,-1.1,Low Baseline
+study2,study2-091,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.8,5.6,-0.2,Low Baseline
+study2,study2-092,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,6.4,6.4,0,Low Baseline
+study2,study2-092,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,6.4,5.2,-1.2,Low Baseline
+study2,study2-092,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,6.4,5.5,-0.9,Low Baseline
+study2,study2-093,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,4.5,4.5,0,Low Baseline
+study2,study2-093,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,4.5,2.8,-1.7,Low Baseline
+study2,study2-093,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,4.5,3.7,-0.8,Low Baseline
+study2,study2-094,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.7,5.7,0,Low Baseline
+study2,study2-094,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.7,5.5,-0.2,Low Baseline
+study2,study2-094,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.7,5.3,-0.4,Low Baseline
+study2,study2-095,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.7,5.7,0,Low Baseline
+study2,study2-095,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.7,5.1,-0.6,Low Baseline
+study2,study2-095,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.7,4.5,-1.2,Low Baseline
+study2,study2-096,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.8,5.8,0,Low Baseline
+study2,study2-096,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.8,4.7,-1.1,Low Baseline
+study2,study2-096,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.8,4.5,-1.3,Low Baseline
+study2,study2-097,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,3.7,3.7,0,Low Baseline
+study2,study2-097,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,3.7,3.1,-0.6,Low Baseline
+study2,study2-097,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,3.7,2.9,-0.8,Low Baseline
+study2,study2-098,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,7.1,7.1,0,High Baseline
+study2,study2-098,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,7.1,6.7,-0.4,High Baseline
+study2,study2-098,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,7.1,6.2,-0.9,High Baseline
+study2,study2-099,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,5.9,5.9,0,Low Baseline
+study2,study2-099,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,5.9,5.2,-0.7,Low Baseline
+study2,study2-099,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,5.9,6.1,0.2,Low Baseline
+study2,study2-100,Placebo,GI_COMP,GI Composite Score,0,Baseline,Y,NA,8.9,8.9,0,High Baseline
+study2,study2-100,Placebo,GI_COMP,GI Composite Score,8,Week 8,NA,NA,8.9,8.1,-0.8,High Baseline
+study2,study2-100,Placebo,GI_COMP,GI Composite Score,12,Week 12,NA,Y,8.9,7.6,-1.3,High Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.8,4.4,-1.4,High Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.8,3.7,-2.1,High Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,7.8,7.8,0,High Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,7.8,6.3,-1.5,High Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,7.8,6.2,-1.6,High Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.6,2.6,-2,Low Baseline
+study2,study2-001,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.6,3.1,-1.5,Low Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.7,5.7,0,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.7,4.4,-1.3,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.7,4.1,-1.6,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.8,4.9,-0.9,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.8,2.8,-3,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,7.8,7.8,0,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,7.8,6.7,-1.1,High Baseline
+study2,study2-002,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,7.8,5.7,-2.1,High Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.4,6.4,0,High Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.4,4.6,-1.8,High Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.4,4.8,-1.6,High Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.3,1.7,-1.6,Low Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.3,1.6,-1.7,Low Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.9,3.9,0,Low Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.9,2.3,-1.6,Low Baseline
+study2,study2-003,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.9,2,-1.9,Low Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.9,3.9,0,Low Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.9,3.4,-0.5,Low Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.9,2.8,-1.1,Low Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.5,5.5,0,High Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.5,4.5,-1,High Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.5,3.4,-2.1,High Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.2,5.2,0,High Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.2,4.1,-1.1,High Baseline
+study2,study2-004,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.2,3.1,-2.1,High Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.9,5.9,0,High Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.9,4.5,-1.4,High Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.9,4.5,-1.4,High Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4,4,0,Low Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4,3.1,-0.9,Low Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4,2.7,-1.3,Low Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.5,4.5,0,Low Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.5,3.6,-0.9,Low Baseline
+study2,study2-005,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.5,3,-1.5,Low Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.5,6.5,0,High Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.5,5.9,-0.6,High Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.5,5,-1.5,High Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5,5,0,Low Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5,4.7,-0.3,Low Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5,3.6,-1.4,Low Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4,4,0,Low Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4,3.1,-0.9,Low Baseline
+study2,study2-006,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4,2.4,-1.6,Low Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.9,5.1,-1.8,High Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.9,4.5,-2.4,High Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.2,5.2,0,High Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.2,4.4,-0.8,High Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.2,2.8,-2.4,High Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.6,3.5,-0.1,Low Baseline
+study2,study2-007,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.6,3.1,-0.5,Low Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,8.3,8.3,0,High Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,8.3,6.3,-2,High Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,8.3,7.7,-0.6,High Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.1,3.1,0,Low Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.1,2.2,-0.9,Low Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.1,1.6,-1.5,Low Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,2,2,0,Low Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,2,0.9,-1.1,Low Baseline
+study2,study2-008,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,2,1.2,-0.8,Low Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,1.1,1.1,0,Low Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,1.1,0.4,-0.7,Low Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,1.1,0,-1.1,Low Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.4,6.4,0,High Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.4,5.7,-0.7,High Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.4,4.4,-2,High Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.2,4.2,0,Low Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.2,4.6,0.4,Low Baseline
+study2,study2-009,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.2,3.2,-1,Low Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.7,4.7,0,Low Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.7,3.7,-1,Low Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.7,3,-1.7,Low Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.7,5.7,0,High Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.7,2.9,-2.8,High Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.7,3.8,-1.9,High Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.4,4.4,0,Low Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.4,3.5,-0.9,Low Baseline
+study2,study2-010,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.4,2.1,-2.3,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,2.3,2.3,0,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,2.3,1.4,-0.9,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,2.3,1.4,-0.9,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,1.7,1.7,0,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,1.7,1.3,-0.4,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,1.7,0,-1.7,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.6,3.7,-0.9,Low Baseline
+study2,study2-011,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.6,3.2,-1.4,Low Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.5,5.5,0,High Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.5,4.9,-0.6,High Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.5,3.2,-2.3,High Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,1.1,1.1,0,Low Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,1.1,0.3,-0.8,Low Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,1.1,0,-1.1,Low Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.7,5.7,0,High Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.7,3.9,-1.8,High Baseline
+study2,study2-012,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.7,3.6,-2.1,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6,6,0,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6,5.1,-0.9,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6,4.2,-1.8,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,7.5,7.5,0,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,7.5,6.5,-1,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,7.5,5.2,-2.3,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.5,5.5,0,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.5,3.2,-2.3,High Baseline
+study2,study2-013,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.5,3.8,-1.7,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.6,5.6,0,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.6,3.9,-1.7,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.6,2.6,-3,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.3,6.3,0,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.3,4.4,-1.9,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.3,5,-1.3,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.2,5.2,0,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.2,3.3,-1.9,High Baseline
+study2,study2-014,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.2,3.5,-1.7,High Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.1,5.1,0,Low Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.1,4,-1.1,Low Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.1,4.2,-0.9,Low Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.4,5.4,0,High Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.4,4.8,-0.6,High Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.4,4.3,-1.1,High Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.5,6.5,0,High Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.5,4.6,-1.9,High Baseline
+study2,study2-015,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.5,4.1,-2.4,High Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.4,4.4,0,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.4,3.8,-0.6,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.4,3.5,-0.9,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.3,4.3,0,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.3,3.8,-0.5,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.3,3.3,-1,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.6,2.2,-1.4,Low Baseline
+study2,study2-016,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.6,1.7,-1.9,Low Baseline
+study2,study2-017,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.5,3.5,0,Low Baseline
+study2,study2-017,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.5,3.3,-0.2,Low Baseline
+study2,study2-017,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.5,2.9,-0.6,Low Baseline
+study2,study2-017,Active,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+study2,study2-017,Active,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.8,4.1,-1.7,High Baseline
+study2,study2-017,Active,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.8,4.6,-1.2,High Baseline
+study2,study2-017,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,8,8,0,High Baseline
+study2,study2-017,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,8,6.9,-1.1,High Baseline
+study2,study2-017,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,8,7.9,-0.1,High Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.5,3.5,0,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.5,4.2,0.7,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.5,3.4,-0.1,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.9,4.9,0,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.9,4.9,0,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.9,4.5,-0.4,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.3,3.4,0.1,Low Baseline
+study2,study2-018,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.3,2.7,-0.6,Low Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.8,6.8,0,High Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.8,6.2,-0.6,High Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.8,5.6,-1.2,High Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.6,4.4,-0.2,Low Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.6,5.9,1.3,Low Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.5,5.5,0,High Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.5,5.8,0.3,High Baseline
+study2,study2-019,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.5,5.5,0,High Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.8,5.3,-0.5,High Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.8,5.9,0.1,High Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.3,3.3,0,Low Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.3,2.4,-0.9,Low Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5,5,0,Low Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5,4,-1,Low Baseline
+study2,study2-020,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5,4.4,-0.6,Low Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.8,4.8,0,Low Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.8,4.8,0,Low Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.8,4.9,0.1,Low Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.4,6.4,0,High Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.4,5.6,-0.8,High Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.4,5.7,-0.7,High Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3,3,0,Low Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3,1.3,-1.7,Low Baseline
+study2,study2-021,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3,2.2,-0.8,Low Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3,3,0,Low Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3,2.6,-0.4,Low Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3,2.5,-0.5,Low Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.6,6.6,0,High Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.6,6.1,-0.5,High Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.6,6.5,-0.1,High Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.1,4.1,0,Low Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.1,3.2,-0.9,Low Baseline
+study2,study2-022,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.1,2.9,-1.2,Low Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4,4,0,Low Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4,3.6,-0.4,Low Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4,4.3,0.3,Low Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.4,5.4,0,High Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.4,5.8,0.4,High Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.4,6,0.6,High Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.6,4.5,-0.1,Low Baseline
+study2,study2-023,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.6,3.8,-0.8,Low Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,8.6,8.6,0,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,8.6,7.8,-0.8,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,8.6,7.7,-0.9,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.7,5.7,0,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.7,5.5,-0.2,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.7,5.4,-0.3,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.5,5.5,0,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.5,5,-0.5,High Baseline
+study2,study2-024,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.5,5,-0.5,High Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.9,6.9,0,High Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.9,6.6,-0.3,High Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.9,5.8,-1.1,High Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.1,5.1,0,Low Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.1,4.3,-0.8,Low Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.1,4.2,-0.9,Low Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.3,5.3,0,High Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.3,3.7,-1.6,High Baseline
+study2,study2-025,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.3,5.2,-0.1,High Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.3,2.9,-0.4,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.3,2.5,-0.8,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,1.1,1.1,0,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,1.1,1,-0.1,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,1.1,0.8,-0.3,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3,3,0,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3,2.7,-0.3,Low Baseline
+study2,study2-026,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3,2.9,-0.1,Low Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.4,5.4,0,High Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.4,5.4,0,High Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.4,5.2,-0.2,High Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.3,2.5,-0.8,Low Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.3,3.7,0.4,Low Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.4,6.4,0,High Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.4,6.1,-0.3,High Baseline
+study2,study2-027,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.4,6,-0.4,High Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.5,6.5,0,High Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.5,5,-1.5,High Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.5,5.9,-0.6,High Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.6,5.6,0,High Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.6,4.5,-1.1,High Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.6,5.5,-0.1,High Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.8,4.8,0,Low Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.8,5.3,0.5,Low Baseline
+study2,study2-028,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.8,4.5,-0.3,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,2.7,2.7,0,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,2.7,2.5,-0.2,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,2.7,2.4,-0.3,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.6,4.6,0,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.6,4.3,-0.3,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.6,3.2,-1.4,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,4.4,4.4,0,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,4.4,3.7,-0.7,Low Baseline
+study2,study2-029,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,4.4,4.2,-0.2,Low Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.4,6.4,0,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.4,5.8,-0.6,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.4,5.6,-0.8,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,7.6,7.6,0,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,7.6,6.9,-0.7,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,7.6,7,-0.6,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.1,6.1,0,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.1,5.1,-1,High Baseline
+study2,study2-030,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.1,6.2,0.1,High Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.2,3.2,0,Low Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.2,3,-0.2,Low Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.2,2.5,-0.7,Low Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,8.2,8.2,0,High Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,8.2,8.1,-0.1,High Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,8.2,8,-0.2,High Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,7,7,0,High Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,7,6.9,-0.1,High Baseline
+study2,study2-031,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,7,6.5,-0.5,High Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.6,5.6,0,High Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.6,5,-0.6,High Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.6,4.7,-0.9,High Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,1.2,1.2,0,Low Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,1.2,0.9,-0.3,Low Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,1.2,1.1,-0.1,Low Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.5,3.5,0,Low Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.5,3.2,-0.3,Low Baseline
+study2,study2-032,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.5,2.7,-0.8,Low Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,5.1,5.1,0,Low Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,5.1,5.3,0.2,Low Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,5.1,4.3,-0.8,Low Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,6.6,6.6,0,High Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,6.6,6.6,0,High Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,6.6,6.7,0.1,High Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,3.1,3.1,0,Low Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,3.1,2.3,-0.8,Low Baseline
+study2,study2-033,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,3.1,3.1,0,Low Baseline
+study2,study2-034,Placebo,BLOAT_SCR,Bloating Score,0,Baseline,Y,NA,11,11,0,High Baseline
+study2,study2-034,Placebo,BLOAT_SCR,Bloating Score,8,Week 8,NA,NA,11,11,0,High Baseline
+study2,study2-034,Placebo,BLOAT_SCR,Bloating Score,12,Week 12,NA,Y,11,11.4,0.4,High Baseline

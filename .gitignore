@@ -18,3 +18,8 @@ Thumbs.db
 
 # Vercel
 .vercel
+
+# R
+.Rhistory
+.RData
+.Rproj.user/

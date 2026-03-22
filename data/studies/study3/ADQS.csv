@@ -1,0 +1,181 @@
+STUDYID,USUBJID,TRT01A,PARAMCD,PARAM,AVISITN,AVISIT,ABLFL,ANL01FL,BASE,AVAL,CHG,SUBGRP
+study3,study3-001,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,2.6,2.6,0,Low Baseline
+study3,study3-001,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,2.6,1,-1.6,Low Baseline
+study3,study3-001,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,2.6,1.2,-1.4,Low Baseline
+study3,study3-002,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5.9,5.9,0,High Baseline
+study3,study3-002,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5.9,4.4,-1.5,High Baseline
+study3,study3-002,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5.9,3.5,-2.4,High Baseline
+study3,study3-003,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5.7,5.7,0,High Baseline
+study3,study3-003,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5.7,4.4,-1.3,High Baseline
+study3,study3-003,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5.7,3.9,-1.8,High Baseline
+study3,study3-004,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+study3,study3-004,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.6,2.9,-0.7,Low Baseline
+study3,study3-004,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.6,2.6,-1,Low Baseline
+study3,study3-005,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.9,3.9,0,Low Baseline
+study3,study3-005,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.9,3.4,-0.5,Low Baseline
+study3,study3-005,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.9,2.7,-1.2,Low Baseline
+study3,study3-006,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.4,3.4,0,Low Baseline
+study3,study3-006,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.4,2.1,-1.3,Low Baseline
+study3,study3-006,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.4,1.5,-1.9,Low Baseline
+study3,study3-007,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+study3,study3-007,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.6,2.9,-0.7,Low Baseline
+study3,study3-007,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.6,2,-1.6,Low Baseline
+study3,study3-008,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.8,4.8,0,High Baseline
+study3,study3-008,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.8,3.8,-1,High Baseline
+study3,study3-008,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.8,3.3,-1.5,High Baseline
+study3,study3-009,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.2,3.2,0,Low Baseline
+study3,study3-009,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.2,2.8,-0.4,Low Baseline
+study3,study3-009,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.2,0.8,-2.4,Low Baseline
+study3,study3-010,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4,4,0,Low Baseline
+study3,study3-010,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4,3.3,-0.7,Low Baseline
+study3,study3-010,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4,2.4,-1.6,Low Baseline
+study3,study3-011,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4,4,0,Low Baseline
+study3,study3-011,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4,3.5,-0.5,Low Baseline
+study3,study3-011,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4,2.8,-1.2,Low Baseline
+study3,study3-012,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.1,4.1,0,Low Baseline
+study3,study3-012,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.1,3.2,-0.9,Low Baseline
+study3,study3-012,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.1,2.7,-1.4,Low Baseline
+study3,study3-013,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+study3,study3-013,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.4,2.4,-2,High Baseline
+study3,study3-013,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.4,2.9,-1.5,High Baseline
+study3,study3-014,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,6,6,0,High Baseline
+study3,study3-014,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,6,5.1,-0.9,High Baseline
+study3,study3-014,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,6,4.6,-1.4,High Baseline
+study3,study3-015,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.7,3.7,0,Low Baseline
+study3,study3-015,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.7,3.4,-0.3,Low Baseline
+study3,study3-015,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.7,1.3,-2.4,Low Baseline
+study3,study3-016,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+study3,study3-016,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.3,2.4,-0.9,Low Baseline
+study3,study3-016,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.3,2.1,-1.2,Low Baseline
+study3,study3-017,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5.1,5.1,0,High Baseline
+study3,study3-017,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5.1,4.3,-0.8,High Baseline
+study3,study3-017,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5.1,2.7,-2.4,High Baseline
+study3,study3-018,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.6,4.6,0,High Baseline
+study3,study3-018,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.6,3.7,-0.9,High Baseline
+study3,study3-018,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.6,3.5,-1.1,High Baseline
+study3,study3-019,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.5,4.5,0,High Baseline
+study3,study3-019,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.5,4.1,-0.4,High Baseline
+study3,study3-019,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.5,2.7,-1.8,High Baseline
+study3,study3-020,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.9,4.9,0,High Baseline
+study3,study3-020,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.9,3.8,-1.1,High Baseline
+study3,study3-020,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.9,3,-1.9,High Baseline
+study3,study3-021,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,2.6,2.6,0,Low Baseline
+study3,study3-021,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,2.6,1.1,-1.5,Low Baseline
+study3,study3-021,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,2.6,1.3,-1.3,Low Baseline
+study3,study3-022,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5.4,5.4,0,High Baseline
+study3,study3-022,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5.4,4,-1.4,High Baseline
+study3,study3-022,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5.4,4.2,-1.2,High Baseline
+study3,study3-023,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.7,4.7,0,High Baseline
+study3,study3-023,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.7,4.3,-0.4,High Baseline
+study3,study3-023,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.7,2.9,-1.8,High Baseline
+study3,study3-024,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5.2,5.2,0,High Baseline
+study3,study3-024,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5.2,3.4,-1.8,High Baseline
+study3,study3-024,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5.2,3.3,-1.9,High Baseline
+study3,study3-025,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.5,3.5,0,Low Baseline
+study3,study3-025,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.5,2.4,-1.1,Low Baseline
+study3,study3-025,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.5,1.7,-1.8,Low Baseline
+study3,study3-026,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,2.2,2.2,0,Low Baseline
+study3,study3-026,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,2.2,1.9,-0.3,Low Baseline
+study3,study3-026,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,2.2,0.2,-2,Low Baseline
+study3,study3-027,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.7,3.7,0,Low Baseline
+study3,study3-027,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.7,3,-0.7,Low Baseline
+study3,study3-027,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.7,3.3,-0.4,Low Baseline
+study3,study3-028,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.2,3.2,0,Low Baseline
+study3,study3-028,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.2,3,-0.2,Low Baseline
+study3,study3-028,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.2,1.7,-1.5,Low Baseline
+study3,study3-029,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,6.6,6.6,0,High Baseline
+study3,study3-029,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,6.6,5,-1.6,High Baseline
+study3,study3-029,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,6.6,4.8,-1.8,High Baseline
+study3,study3-030,Active,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.7,3.7,0,Low Baseline
+study3,study3-030,Active,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.7,2.7,-1,Low Baseline
+study3,study3-030,Active,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.7,2.9,-0.8,Low Baseline
+study3,study3-031,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4,4,0,Low Baseline
+study3,study3-031,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4,3.8,-0.2,Low Baseline
+study3,study3-031,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4,3.4,-0.6,Low Baseline
+study3,study3-032,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5.4,5.4,0,High Baseline
+study3,study3-032,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5.4,4.3,-1.1,High Baseline
+study3,study3-032,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5.4,5.2,-0.2,High Baseline
+study3,study3-033,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.9,4.9,0,High Baseline
+study3,study3-033,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.9,5.3,0.4,High Baseline
+study3,study3-033,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.9,4.7,-0.2,High Baseline
+study3,study3-034,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.9,4.9,0,High Baseline
+study3,study3-034,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.9,4.7,-0.2,High Baseline
+study3,study3-034,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.9,4.2,-0.7,High Baseline
+study3,study3-035,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,7.1,7.1,0,High Baseline
+study3,study3-035,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,7.1,7.1,0,High Baseline
+study3,study3-035,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,7.1,6.4,-0.7,High Baseline
+study3,study3-036,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+study3,study3-036,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.4,5.1,0.7,High Baseline
+study3,study3-036,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.4,3.6,-0.8,High Baseline
+study3,study3-037,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,6.3,6.3,0,High Baseline
+study3,study3-037,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,6.3,6,-0.3,High Baseline
+study3,study3-037,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,6.3,6.7,0.4,High Baseline
+study3,study3-038,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.5,4.5,0,High Baseline
+study3,study3-038,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.5,4.3,-0.2,High Baseline
+study3,study3-038,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.5,4.3,-0.2,High Baseline
+study3,study3-039,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,2.6,2.6,0,Low Baseline
+study3,study3-039,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,2.6,2.7,0.1,Low Baseline
+study3,study3-039,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,2.6,2.2,-0.4,Low Baseline
+study3,study3-040,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,1.8,1.8,0,Low Baseline
+study3,study3-040,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,1.8,1.7,-0.1,Low Baseline
+study3,study3-040,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,1.8,1.8,0,Low Baseline
+study3,study3-041,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.9,4.9,0,High Baseline
+study3,study3-041,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.9,4.4,-0.5,High Baseline
+study3,study3-041,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.9,5.1,0.2,High Baseline
+study3,study3-042,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.1,3.1,0,Low Baseline
+study3,study3-042,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.1,2.8,-0.3,Low Baseline
+study3,study3-042,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.1,2.8,-0.3,Low Baseline
+study3,study3-043,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.2,4.2,0,Low Baseline
+study3,study3-043,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.2,3.9,-0.3,Low Baseline
+study3,study3-043,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.2,3.9,-0.3,Low Baseline
+study3,study3-044,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,6.2,6.2,0,High Baseline
+study3,study3-044,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,6.2,6.8,0.6,High Baseline
+study3,study3-044,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,6.2,6.2,0,High Baseline
+study3,study3-045,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.6,4.6,0,High Baseline
+study3,study3-045,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.6,3.5,-1.1,High Baseline
+study3,study3-045,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.6,4.3,-0.3,High Baseline
+study3,study3-046,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.9,3.9,0,Low Baseline
+study3,study3-046,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.9,3.1,-0.8,Low Baseline
+study3,study3-046,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.9,3.9,0,Low Baseline
+study3,study3-047,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,2.1,2.1,0,Low Baseline
+study3,study3-047,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,2.1,1.7,-0.4,Low Baseline
+study3,study3-047,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,2.1,1.7,-0.4,Low Baseline
+study3,study3-048,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+study3,study3-048,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.3,2.4,-0.9,Low Baseline
+study3,study3-048,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.3,3.3,0,Low Baseline
+study3,study3-049,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+study3,study3-049,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.6,3.3,-0.3,Low Baseline
+study3,study3-049,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.6,3,-0.6,Low Baseline
+study3,study3-050,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5,5,0,High Baseline
+study3,study3-050,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5,4.3,-0.7,High Baseline
+study3,study3-050,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5,5.1,0.1,High Baseline
+study3,study3-051,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.7,4.7,0,High Baseline
+study3,study3-051,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.7,3.8,-0.9,High Baseline
+study3,study3-051,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.7,3.9,-0.8,High Baseline
+study3,study3-052,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.2,4.2,0,Low Baseline
+study3,study3-052,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.2,3.6,-0.6,Low Baseline
+study3,study3-052,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.2,3.6,-0.6,Low Baseline
+study3,study3-053,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+study3,study3-053,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.4,4,-0.4,High Baseline
+study3,study3-053,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.4,4.4,0,High Baseline
+study3,study3-054,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3.9,3.9,0,Low Baseline
+study3,study3-054,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3.9,3.7,-0.2,Low Baseline
+study3,study3-054,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3.9,3.9,0,Low Baseline
+study3,study3-055,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.2,4.2,0,Low Baseline
+study3,study3-055,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.2,3.7,-0.5,Low Baseline
+study3,study3-055,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.2,4.3,0.1,Low Baseline
+study3,study3-056,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.5,4.5,0,High Baseline
+study3,study3-056,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.5,3.2,-1.3,High Baseline
+study3,study3-056,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.5,3.8,-0.7,High Baseline
+study3,study3-057,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,4.7,4.7,0,High Baseline
+study3,study3-057,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,4.7,4.3,-0.4,High Baseline
+study3,study3-057,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,4.7,4.2,-0.5,High Baseline
+study3,study3-058,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,6.2,6.2,0,High Baseline
+study3,study3-058,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,6.2,6.3,0.1,High Baseline
+study3,study3-058,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,6.2,5.7,-0.5,High Baseline
+study3,study3-059,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,3,3,0,Low Baseline
+study3,study3-059,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,3,3.1,0.1,Low Baseline
+study3,study3-059,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,3,2.2,-0.8,Low Baseline
+study3,study3-060,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),0,Baseline,Y,NA,5.8,5.8,0,High Baseline
+study3,study3-060,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),4,Week 4,NA,NA,5.8,5.4,-0.4,High Baseline
+study3,study3-060,Placebo,BOWELFREQ,Bowel Movement Frequency (per day),6,Week 6,NA,Y,5.8,5.7,-0.1,High Baseline
