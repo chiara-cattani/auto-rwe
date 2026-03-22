@@ -39,8 +39,9 @@ export default function ForestPlot({ data }: Props) {
   const { studies, pooled, higher_is_better } = data
   const N = studies.length
   const NULL_X = dToX(0)
+  const showPooled = N > 1
 
-  const SVG_H = HEADER_H + N * ROW_H + 20 + ROW_H + AXIS_H + BOTTOM_PAD
+  const SVG_H = HEADER_H + N * ROW_H + (showPooled ? 20 + ROW_H : 0) + AXIS_H + BOTTOM_PAD
 
   const tickValues = [-1.5, -1.0, -0.5, 0, 0.5, 1.0, 1.5]
 
@@ -74,7 +75,7 @@ export default function ForestPlot({ data }: Props) {
         {/* Null line */}
         <line
           x1={NULL_X} y1={HEADER_H - 8}
-          x2={NULL_X} y2={HEADER_H + N * ROW_H + 18}
+          x2={NULL_X} y2={HEADER_H + N * ROW_H + (showPooled ? 18 : 4)}
           stroke="#9ca3af" strokeWidth={1} strokeDasharray="4,3"
         />
 
@@ -114,15 +115,8 @@ export default function ForestPlot({ data }: Props) {
           )
         })}
 
-        {/* Separator before pooled */}
-        <line
-          x1={PLOT_X} y1={HEADER_H + N * ROW_H + 8}
-          x2={PLOT_X + PLOT_W} y2={HEADER_H + N * ROW_H + 8}
-          stroke="#d1d5db" strokeWidth={1}
-        />
-
-        {/* Pooled diamond */}
-        {(() => {
+        {/* Separator + pooled diamond — only when 2+ studies */}
+        {showPooled && (() => {
           const py = HEADER_H + N * ROW_H + 22 + ROW_H / 2
           const cx = dToX(pooled.cohens_d)
           const x1 = Math.max(dToX(pooled.ci_lower), PLOT_X + 2)
@@ -131,6 +125,7 @@ export default function ForestPlot({ data }: Props) {
           const pts = `${x1},${py} ${cx},${py - dh} ${x2},${py} ${cx},${py + dh}`
           return (
             <g>
+              <line x1={PLOT_X} y1={HEADER_H + N * ROW_H + 8} x2={PLOT_X + PLOT_W} y2={HEADER_H + N * ROW_H + 8} stroke="#d1d5db" strokeWidth={1} />
               <text x={LABEL_W - 8} y={py - 2} textAnchor="end" fontSize={11} fill={DARK} fontWeight="bold">
                 Pooled Estimate
               </text>
