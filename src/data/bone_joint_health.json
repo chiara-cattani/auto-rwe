@@ -1,0 +1,126 @@
+{
+  "therapeutic_area": "bone_joint_health",
+  "label": "Bone & Joint Health",
+  "endpoint_description": "Bone Mineral Density T-score / Joint Flexibility Index (higher = better)",
+  "higher_is_better": true,
+  "studies": [
+    {
+      "study_id": "densia_eu_01",
+      "product": "Densia",
+      "population": "Women 50+",
+      "n_subjects": 80,
+      "phase": "III",
+      "endpoint": "Bone Mineral Density T-score",
+      "endpoint_var": "BONE_DENS",
+      "higher_is_better": true,
+      "baseline_mean": -1.8,
+      "active_change": 0.31,
+      "placebo_change": -0.04,
+      "treatment_diff": 0.35,
+      "cohens_d": 0.68,
+      "ci_lower": 0.37,
+      "ci_upper": 0.99,
+      "p_value": 0.00018,
+      "significant": true
+    },
+    {
+      "study_id": "densia_global_02",
+      "product": "Densia Plus",
+      "population": "Adults 45+",
+      "n_subjects": 150,
+      "phase": "III",
+      "endpoint": "Joint Flexibility Index",
+      "endpoint_var": "JOINT_FLEX",
+      "higher_is_better": true,
+      "baseline_mean": 54.2,
+      "active_change": 11.4,
+      "placebo_change": 3.7,
+      "treatment_diff": 7.7,
+      "cohens_d": 0.55,
+      "ci_lower": 0.28,
+      "ci_upper": 0.82,
+      "p_value": 0.00031,
+      "significant": true
+    }
+  ],
+  "pooled": {
+    "cohens_d": 0.61,
+    "ci_lower": 0.40,
+    "ci_upper": 0.82,
+    "n_studies": 2,
+    "n_significant": 2,
+    "n_subjects_total": 230
+  },
+  "subgroups": [
+    {
+      "study_id": "densia_eu_01",
+      "product": "Densia",
+      "subgroup": "High Baseline Risk",
+      "cohens_d": 0.91,
+      "ci_lower": 0.51,
+      "ci_upper": 1.31,
+      "p_value": 0.000019,
+      "n": 28,
+      "significant": true
+    },
+    {
+      "study_id": "densia_eu_01",
+      "product": "Densia",
+      "subgroup": "Normal Baseline",
+      "cohens_d": 0.53,
+      "ci_lower": 0.23,
+      "ci_upper": 0.83,
+      "p_value": 0.0007,
+      "n": 52,
+      "significant": true
+    },
+    {
+      "study_id": "densia_global_02",
+      "product": "Densia Plus",
+      "subgroup": "High Baseline Risk",
+      "cohens_d": 0.74,
+      "ci_lower": 0.46,
+      "ci_upper": 1.02,
+      "p_value": 0.000011,
+      "n": 52,
+      "significant": true
+    },
+    {
+      "study_id": "densia_global_02",
+      "product": "Densia Plus",
+      "subgroup": "Normal Baseline",
+      "cohens_d": 0.44,
+      "ci_lower": 0.22,
+      "ci_upper": 0.66,
+      "p_value": 0.0001,
+      "n": 98,
+      "significant": true
+    }
+  ],
+  "narrative": [
+    {
+      "title": "Headline",
+      "content": "Significant bone density and joint flexibility gains across both Phase III studies. Effect sizes comparable to leading osteoporosis lifestyle interventions (d=0.55–0.68)."
+    },
+    {
+      "title": "Executive Summary",
+      "content": "Analysis of 2 Phase III RCTs (N=230) demonstrates statistically significant improvement in skeletal outcomes with Densia formulations. Densia improved Bone Mineral Density T-score in post-menopausal women (d=+0.68, p<0.001), while Densia Plus improved Joint Flexibility Index in adults 45+ (d=+0.55, p<0.001). Pooled effect: Cohen's d = +0.61 (95% CI: +0.40 to +0.82)."
+    },
+    {
+      "title": "Subgroup Opportunity",
+      "content": "Subjects at highest baseline skeletal risk show 40–70% stronger treatment response compared to lower-risk subjects. For Densia: d=+0.91 (high-risk) vs +0.53 (normal-risk). This aligns with the biology — greatest bone remodeling potential exists in those with active bone loss. Densia is most impactful for post-menopausal women with established low bone density (T-score < –2.0)."
+    },
+    {
+      "title": "Studies Included",
+      "content": "densia_eu_01: Densia, EU, Women 50+, n=80, Phase III — Bone Mineral Density, d=+0.68 (p<0.001) | densia_global_02: Densia Plus, Global, Adults 45+, n=150, Phase III — Joint Flexibility Index, d=+0.55 (p<0.001)"
+    },
+    {
+      "title": "Confidence Assessment",
+      "content": "HIGH — Both studies Phase III, both statistically significant with consistent direction. The EU bone density result has direct regulatory relevance (EFSA health claim territory). The global joint flexibility result provides a broader 'healthy aging' evidence base. Sample sizes are moderate; a larger Phase III replication would strengthen the dossier."
+    },
+    {
+      "title": "Strategic Implication",
+      "content": "Densia demonstrates clinically meaningful skeletal benefit positioned for the active aging segment. The bone density effect (d=0.68) rivals non-pharmacological interventions. Recommend targeting women 50+ with osteopenia (T-score –1.5 to –2.5) as the primary commercial segment, and building the 'healthy aging skeleton' narrative across both Densia and Densia Plus. Consider an EFSA Article 13.5 health claim submission using densia_eu_01 data."
+    }
+  ]
+}

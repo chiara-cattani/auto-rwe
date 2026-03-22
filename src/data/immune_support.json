@@ -1,0 +1,126 @@
+{
+  "therapeutic_area": "immune_support",
+  "label": "Immune Support",
+  "endpoint_description": "Immune Response Score (composite; higher = better)",
+  "higher_is_better": true,
+  "studies": [
+    {
+      "study_id": "actimel_immune_eu_01",
+      "product": "Actimel",
+      "population": "Adults 18–65",
+      "n_subjects": 100,
+      "phase": "III",
+      "endpoint": "Immune Response Score",
+      "endpoint_var": "IMMUNE_SCR",
+      "higher_is_better": true,
+      "baseline_mean": 48.3,
+      "active_change": 14.6,
+      "placebo_change": 5.2,
+      "treatment_diff": 9.4,
+      "cohens_d": 0.62,
+      "ci_lower": 0.34,
+      "ci_upper": 0.90,
+      "p_value": 0.00038,
+      "significant": true
+    },
+    {
+      "study_id": "actimel_immune_elder_02",
+      "product": "Actimel Senior",
+      "population": "Adults 65+",
+      "n_subjects": 70,
+      "phase": "II",
+      "endpoint": "Immune Response Score",
+      "endpoint_var": "IMMUNE_SCR",
+      "higher_is_better": true,
+      "baseline_mean": 41.7,
+      "active_change": 16.8,
+      "placebo_change": 4.9,
+      "treatment_diff": 11.9,
+      "cohens_d": 0.71,
+      "ci_lower": 0.41,
+      "ci_upper": 1.01,
+      "p_value": 0.000092,
+      "significant": true
+    }
+  ],
+  "pooled": {
+    "cohens_d": 0.66,
+    "ci_lower": 0.44,
+    "ci_upper": 0.88,
+    "n_studies": 2,
+    "n_significant": 2,
+    "n_subjects_total": 170
+  },
+  "subgroups": [
+    {
+      "study_id": "actimel_immune_eu_01",
+      "product": "Actimel",
+      "subgroup": "Low Immune Baseline",
+      "cohens_d": 0.84,
+      "ci_lower": 0.50,
+      "ci_upper": 1.18,
+      "p_value": 0.000011,
+      "n": 38,
+      "significant": true
+    },
+    {
+      "study_id": "actimel_immune_eu_01",
+      "product": "Actimel",
+      "subgroup": "Normal Baseline",
+      "cohens_d": 0.47,
+      "ci_lower": 0.20,
+      "ci_upper": 0.74,
+      "p_value": 0.0007,
+      "n": 62,
+      "significant": true
+    },
+    {
+      "study_id": "actimel_immune_elder_02",
+      "product": "Actimel Senior",
+      "subgroup": "Low Immune Baseline",
+      "cohens_d": 0.97,
+      "ci_lower": 0.56,
+      "ci_upper": 1.38,
+      "p_value": 0.000010,
+      "n": 26,
+      "significant": true
+    },
+    {
+      "study_id": "actimel_immune_elder_02",
+      "product": "Actimel Senior",
+      "subgroup": "Normal Baseline",
+      "cohens_d": 0.54,
+      "ci_lower": 0.22,
+      "ci_upper": 0.86,
+      "p_value": 0.001,
+      "n": 44,
+      "significant": true
+    }
+  ],
+  "narrative": [
+    {
+      "title": "Headline",
+      "content": "Consistent, statistically significant immune support demonstrated in both adult and elderly populations. Elderly cohort shows numerically stronger effect (d=+0.71 vs +0.62), pointing to immunosenescence as a key mechanism."
+    },
+    {
+      "title": "Executive Summary",
+      "content": "Analysis of 2 RCTs (N=170) demonstrates significant improvement in Immune Response Score with Actimel formulations across two distinct populations. The elderly study (65+) shows a numerically larger effect (d=+0.71, p<0.001) than the adult study (d=+0.62, p<0.001). Pooled effect: Cohen's d = +0.66 (95% CI: +0.44 to +0.88). Both studies consistently favor the active arm with no safety signals."
+    },
+    {
+      "title": "Subgroup Opportunity",
+      "content": "Subjects with low baseline immune function show 60–80% stronger treatment response compared to those with normal baseline immune status. For Actimel Senior (elderly): d=+0.97 (low immune baseline) vs +0.54 (normal). This 'immuno-compromised' phenotype — common in elderly, high-stress adults, and post-illness recovery — represents the highest-value consumer segment for immune positioning."
+    },
+    {
+      "title": "Studies Included",
+      "content": "actimel_immune_eu_01: Actimel, EU, Adults 18–65, n=100, Phase III — Immune Response Score, d=+0.62 (p<0.001) | actimel_immune_elder_02: Actimel Senior, EU, Adults 65+, n=70, Phase II — Immune Response Score, d=+0.71 (p<0.001)"
+    },
+    {
+      "title": "Confidence Assessment",
+      "content": "HIGH — Both studies significant with consistent direction. The Phase III adult study provides strong foundational evidence; the Phase II elderly study provides directional signal with high effect size. Combined N=170 is sufficient for effect size estimation. A larger Phase III elderly replication would close the evidence gap for the key senior consumer segment."
+    },
+    {
+      "title": "Strategic Implication",
+      "content": "Actimel demonstrates robust immune support benefit, with a compelling signal in the elderly/vulnerable population that aligns with global healthy aging trends. Recommend building the 'immune resilience for healthy aging' communication platform anchored to the elderly data. Priority commercial opportunity: Actimel Senior as a standalone 'immune defense' SKU for adults 60+ in pharmacy and health channels. Also consider seasonal immunity messaging in winter cold/flu season for the general adult range."
+    }
+  ]
+}
