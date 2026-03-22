@@ -1,0 +1,241 @@
+STUDYID,USUBJID,TRT01A,PARAMCD,PARAM,AVISITN,AVISIT,ABLFL,ANL01FL,BASE,AVAL,CHG,SUBGRP
+densia_eu_01,densia_eu_01-001,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,64.5,64.5,0,High Baseline
+densia_eu_01,densia_eu_01-001,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,64.5,69.8,5.3,High Baseline
+densia_eu_01,densia_eu_01-001,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,64.5,74.1,9.6,High Baseline
+densia_eu_01,densia_eu_01-002,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,54.2,54.2,0,High Baseline
+densia_eu_01,densia_eu_01-002,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,54.2,59.5,5.3,High Baseline
+densia_eu_01,densia_eu_01-002,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,54.2,60.6,6.4,High Baseline
+densia_eu_01,densia_eu_01-003,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,64,64,0,High Baseline
+densia_eu_01,densia_eu_01-003,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,64,69.5,5.5,High Baseline
+densia_eu_01,densia_eu_01-003,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,64,71.5,7.5,High Baseline
+densia_eu_01,densia_eu_01-004,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,58.2,58.2,0,High Baseline
+densia_eu_01,densia_eu_01-004,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,58.2,60.9,2.7,High Baseline
+densia_eu_01,densia_eu_01-004,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,58.2,67.4,9.2,High Baseline
+densia_eu_01,densia_eu_01-005,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,50.7,50.7,0,High Baseline
+densia_eu_01,densia_eu_01-005,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,50.7,61.3,10.6,High Baseline
+densia_eu_01,densia_eu_01-005,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,50.7,58.2,7.5,High Baseline
+densia_eu_01,densia_eu_01-006,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,50,50,0,High Baseline
+densia_eu_01,densia_eu_01-006,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,50,51.4,1.4,High Baseline
+densia_eu_01,densia_eu_01-006,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,50,60,10,High Baseline
+densia_eu_01,densia_eu_01-007,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,63.4,63.4,0,High Baseline
+densia_eu_01,densia_eu_01-007,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,63.4,67.6,4.2,High Baseline
+densia_eu_01,densia_eu_01-007,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,63.4,73.6,10.2,High Baseline
+densia_eu_01,densia_eu_01-008,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,39.9,39.9,0,Low Baseline
+densia_eu_01,densia_eu_01-008,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,39.9,42.3,2.4,Low Baseline
+densia_eu_01,densia_eu_01-008,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,39.9,45,5.1,Low Baseline
+densia_eu_01,densia_eu_01-009,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.5,48.5,0,Low Baseline
+densia_eu_01,densia_eu_01-009,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.5,54.5,6,Low Baseline
+densia_eu_01,densia_eu_01-009,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.5,54.8,6.3,Low Baseline
+densia_eu_01,densia_eu_01-010,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,49.5,49.5,0,High Baseline
+densia_eu_01,densia_eu_01-010,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,49.5,55.4,5.9,High Baseline
+densia_eu_01,densia_eu_01-010,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,49.5,59.1,9.6,High Baseline
+densia_eu_01,densia_eu_01-011,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,29.3,29.3,0,Low Baseline
+densia_eu_01,densia_eu_01-011,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,29.3,27.4,-1.9,Low Baseline
+densia_eu_01,densia_eu_01-011,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,29.3,32.3,3,Low Baseline
+densia_eu_01,densia_eu_01-012,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,45.2,45.2,0,Low Baseline
+densia_eu_01,densia_eu_01-012,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,45.2,49.1,3.9,Low Baseline
+densia_eu_01,densia_eu_01-012,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,45.2,47.8,2.6,Low Baseline
+densia_eu_01,densia_eu_01-013,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,50.8,50.8,0,High Baseline
+densia_eu_01,densia_eu_01-013,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,50.8,55.8,5,High Baseline
+densia_eu_01,densia_eu_01-013,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,50.8,63.5,12.7,High Baseline
+densia_eu_01,densia_eu_01-014,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,25.4,25.4,0,Low Baseline
+densia_eu_01,densia_eu_01-014,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,25.4,28.3,2.9,Low Baseline
+densia_eu_01,densia_eu_01-014,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,25.4,32,6.6,Low Baseline
+densia_eu_01,densia_eu_01-015,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,50.9,50.9,0,High Baseline
+densia_eu_01,densia_eu_01-015,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,50.9,46.8,-4.1,High Baseline
+densia_eu_01,densia_eu_01-015,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,50.9,62.5,11.6,High Baseline
+densia_eu_01,densia_eu_01-016,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,45.7,45.7,0,Low Baseline
+densia_eu_01,densia_eu_01-016,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,45.7,46.9,1.2,Low Baseline
+densia_eu_01,densia_eu_01-016,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,45.7,52.4,6.7,Low Baseline
+densia_eu_01,densia_eu_01-017,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,51.5,51.5,0,High Baseline
+densia_eu_01,densia_eu_01-017,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,51.5,57.7,6.2,High Baseline
+densia_eu_01,densia_eu_01-017,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,51.5,58.2,6.7,High Baseline
+densia_eu_01,densia_eu_01-018,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,53.7,53.7,0,High Baseline
+densia_eu_01,densia_eu_01-018,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,53.7,57,3.3,High Baseline
+densia_eu_01,densia_eu_01-018,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,53.7,59.1,5.4,High Baseline
+densia_eu_01,densia_eu_01-019,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,59.4,59.4,0,High Baseline
+densia_eu_01,densia_eu_01-019,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,59.4,69.4,10,High Baseline
+densia_eu_01,densia_eu_01-019,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,59.4,64.7,5.3,High Baseline
+densia_eu_01,densia_eu_01-020,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,34.5,34.5,0,Low Baseline
+densia_eu_01,densia_eu_01-020,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,34.5,34.6,0.1,Low Baseline
+densia_eu_01,densia_eu_01-020,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,34.5,44.5,10,Low Baseline
+densia_eu_01,densia_eu_01-021,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.3,48.3,0,Low Baseline
+densia_eu_01,densia_eu_01-021,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.3,45.5,-2.8,Low Baseline
+densia_eu_01,densia_eu_01-021,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.3,48.8,0.5,Low Baseline
+densia_eu_01,densia_eu_01-022,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,42.9,42.9,0,Low Baseline
+densia_eu_01,densia_eu_01-022,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,42.9,46.6,3.7,Low Baseline
+densia_eu_01,densia_eu_01-022,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,42.9,43.9,1,Low Baseline
+densia_eu_01,densia_eu_01-023,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.2,48.2,0,Low Baseline
+densia_eu_01,densia_eu_01-023,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.2,52.2,4,Low Baseline
+densia_eu_01,densia_eu_01-023,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.2,54.3,6.1,Low Baseline
+densia_eu_01,densia_eu_01-024,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,47,47,0,Low Baseline
+densia_eu_01,densia_eu_01-024,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,47,51.9,4.9,Low Baseline
+densia_eu_01,densia_eu_01-024,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,47,51.9,4.9,Low Baseline
+densia_eu_01,densia_eu_01-025,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,38.6,38.6,0,Low Baseline
+densia_eu_01,densia_eu_01-025,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,38.6,42.7,4.1,Low Baseline
+densia_eu_01,densia_eu_01-025,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,38.6,47.6,9,Low Baseline
+densia_eu_01,densia_eu_01-026,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,33.5,33.5,0,Low Baseline
+densia_eu_01,densia_eu_01-026,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,33.5,38.4,4.9,Low Baseline
+densia_eu_01,densia_eu_01-026,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,33.5,42.1,8.6,Low Baseline
+densia_eu_01,densia_eu_01-027,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,65,65,0,High Baseline
+densia_eu_01,densia_eu_01-027,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,65,66.1,1.1,High Baseline
+densia_eu_01,densia_eu_01-027,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,65,72.7,7.7,High Baseline
+densia_eu_01,densia_eu_01-028,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,37.4,37.4,0,Low Baseline
+densia_eu_01,densia_eu_01-028,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,37.4,39,1.6,Low Baseline
+densia_eu_01,densia_eu_01-028,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,37.4,41.5,4.1,Low Baseline
+densia_eu_01,densia_eu_01-029,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,50.2,50.2,0,High Baseline
+densia_eu_01,densia_eu_01-029,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,50.2,59.5,9.3,High Baseline
+densia_eu_01,densia_eu_01-029,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,50.2,58.8,8.6,High Baseline
+densia_eu_01,densia_eu_01-030,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,39.1,39.1,0,Low Baseline
+densia_eu_01,densia_eu_01-030,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,39.1,44.4,5.3,Low Baseline
+densia_eu_01,densia_eu_01-030,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,39.1,47,7.9,Low Baseline
+densia_eu_01,densia_eu_01-031,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,60.1,60.1,0,High Baseline
+densia_eu_01,densia_eu_01-031,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,60.1,62.4,2.3,High Baseline
+densia_eu_01,densia_eu_01-031,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,60.1,69.4,9.3,High Baseline
+densia_eu_01,densia_eu_01-032,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,33.9,33.9,0,Low Baseline
+densia_eu_01,densia_eu_01-032,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,33.9,37.6,3.7,Low Baseline
+densia_eu_01,densia_eu_01-032,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,33.9,44.7,10.8,Low Baseline
+densia_eu_01,densia_eu_01-033,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,40.9,40.9,0,Low Baseline
+densia_eu_01,densia_eu_01-033,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,40.9,41.4,0.5,Low Baseline
+densia_eu_01,densia_eu_01-033,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,40.9,47.9,7,Low Baseline
+densia_eu_01,densia_eu_01-034,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,38.2,38.2,0,Low Baseline
+densia_eu_01,densia_eu_01-034,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,38.2,39.8,1.6,Low Baseline
+densia_eu_01,densia_eu_01-034,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,38.2,43.1,4.9,Low Baseline
+densia_eu_01,densia_eu_01-035,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.4,48.4,0,Low Baseline
+densia_eu_01,densia_eu_01-035,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.4,55.8,7.4,Low Baseline
+densia_eu_01,densia_eu_01-035,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.4,52.3,3.9,Low Baseline
+densia_eu_01,densia_eu_01-036,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,44.1,44.1,0,Low Baseline
+densia_eu_01,densia_eu_01-036,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,44.1,49.1,5,Low Baseline
+densia_eu_01,densia_eu_01-036,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,44.1,50.7,6.6,Low Baseline
+densia_eu_01,densia_eu_01-037,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,67.1,67.1,0,High Baseline
+densia_eu_01,densia_eu_01-037,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,67.1,69.4,2.3,High Baseline
+densia_eu_01,densia_eu_01-037,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,67.1,73.8,6.7,High Baseline
+densia_eu_01,densia_eu_01-038,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48,48,0,Low Baseline
+densia_eu_01,densia_eu_01-038,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48,45.5,-2.5,Low Baseline
+densia_eu_01,densia_eu_01-038,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48,55.6,7.6,Low Baseline
+densia_eu_01,densia_eu_01-039,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,58.7,58.7,0,High Baseline
+densia_eu_01,densia_eu_01-039,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,58.7,62.2,3.5,High Baseline
+densia_eu_01,densia_eu_01-039,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,58.7,68.2,9.5,High Baseline
+densia_eu_01,densia_eu_01-040,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,54.6,54.6,0,High Baseline
+densia_eu_01,densia_eu_01-040,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,54.6,58.2,3.6,High Baseline
+densia_eu_01,densia_eu_01-040,Active,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,54.6,61.1,6.5,High Baseline
+densia_eu_01,densia_eu_01-041,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,53.5,53.5,0,High Baseline
+densia_eu_01,densia_eu_01-041,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,53.5,54.6,1.1,High Baseline
+densia_eu_01,densia_eu_01-041,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,53.5,55.3,1.8,High Baseline
+densia_eu_01,densia_eu_01-042,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,52.1,52.1,0,High Baseline
+densia_eu_01,densia_eu_01-042,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,52.1,53.8,1.7,High Baseline
+densia_eu_01,densia_eu_01-042,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,52.1,51.4,-0.7,High Baseline
+densia_eu_01,densia_eu_01-043,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,50.2,50.2,0,High Baseline
+densia_eu_01,densia_eu_01-043,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,50.2,49,-1.2,High Baseline
+densia_eu_01,densia_eu_01-043,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,50.2,47.5,-2.7,High Baseline
+densia_eu_01,densia_eu_01-044,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,42.3,42.3,0,Low Baseline
+densia_eu_01,densia_eu_01-044,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,42.3,44.5,2.2,Low Baseline
+densia_eu_01,densia_eu_01-044,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,42.3,42.5,0.2,Low Baseline
+densia_eu_01,densia_eu_01-045,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,45.3,45.3,0,Low Baseline
+densia_eu_01,densia_eu_01-045,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,45.3,47.9,2.6,Low Baseline
+densia_eu_01,densia_eu_01-045,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,45.3,46.5,1.2,Low Baseline
+densia_eu_01,densia_eu_01-046,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,51.8,51.8,0,High Baseline
+densia_eu_01,densia_eu_01-046,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,51.8,50.8,-1,High Baseline
+densia_eu_01,densia_eu_01-046,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,51.8,52.6,0.8,High Baseline
+densia_eu_01,densia_eu_01-047,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,28.2,28.2,0,Low Baseline
+densia_eu_01,densia_eu_01-047,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,28.2,29.2,1,Low Baseline
+densia_eu_01,densia_eu_01-047,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,28.2,28.5,0.3,Low Baseline
+densia_eu_01,densia_eu_01-048,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,33.2,33.2,0,Low Baseline
+densia_eu_01,densia_eu_01-048,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,33.2,34.1,0.9,Low Baseline
+densia_eu_01,densia_eu_01-048,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,33.2,35,1.8,Low Baseline
+densia_eu_01,densia_eu_01-049,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,44.6,44.6,0,Low Baseline
+densia_eu_01,densia_eu_01-049,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,44.6,44.3,-0.3,Low Baseline
+densia_eu_01,densia_eu_01-049,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,44.6,48.5,3.9,Low Baseline
+densia_eu_01,densia_eu_01-050,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,33.1,33.1,0,Low Baseline
+densia_eu_01,densia_eu_01-050,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,33.1,34.4,1.3,Low Baseline
+densia_eu_01,densia_eu_01-050,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,33.1,33.7,0.6,Low Baseline
+densia_eu_01,densia_eu_01-051,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.9,48.9,0,Low Baseline
+densia_eu_01,densia_eu_01-051,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.9,53.1,4.2,Low Baseline
+densia_eu_01,densia_eu_01-051,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.9,54.2,5.3,Low Baseline
+densia_eu_01,densia_eu_01-052,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,51.8,51.8,0,High Baseline
+densia_eu_01,densia_eu_01-052,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,51.8,51.3,-0.5,High Baseline
+densia_eu_01,densia_eu_01-052,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,51.8,53,1.2,High Baseline
+densia_eu_01,densia_eu_01-053,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,55.1,55.1,0,High Baseline
+densia_eu_01,densia_eu_01-053,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,55.1,50.6,-4.5,High Baseline
+densia_eu_01,densia_eu_01-053,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,55.1,60.2,5.1,High Baseline
+densia_eu_01,densia_eu_01-054,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,56.9,56.9,0,High Baseline
+densia_eu_01,densia_eu_01-054,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,56.9,56.5,-0.4,High Baseline
+densia_eu_01,densia_eu_01-054,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,56.9,61.7,4.8,High Baseline
+densia_eu_01,densia_eu_01-055,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,52.5,52.5,0,High Baseline
+densia_eu_01,densia_eu_01-055,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,52.5,54.4,1.9,High Baseline
+densia_eu_01,densia_eu_01-055,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,52.5,52.1,-0.4,High Baseline
+densia_eu_01,densia_eu_01-056,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,52.4,52.4,0,High Baseline
+densia_eu_01,densia_eu_01-056,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,52.4,51.2,-1.2,High Baseline
+densia_eu_01,densia_eu_01-056,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,52.4,55.2,2.8,High Baseline
+densia_eu_01,densia_eu_01-057,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,49.9,49.9,0,High Baseline
+densia_eu_01,densia_eu_01-057,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,49.9,50.8,0.9,High Baseline
+densia_eu_01,densia_eu_01-057,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,49.9,50.4,0.5,High Baseline
+densia_eu_01,densia_eu_01-058,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.3,48.3,0,Low Baseline
+densia_eu_01,densia_eu_01-058,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.3,47.5,-0.8,Low Baseline
+densia_eu_01,densia_eu_01-058,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.3,51.1,2.8,Low Baseline
+densia_eu_01,densia_eu_01-059,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,41.5,41.5,0,Low Baseline
+densia_eu_01,densia_eu_01-059,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,41.5,46.9,5.4,Low Baseline
+densia_eu_01,densia_eu_01-059,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,41.5,36.2,-5.3,Low Baseline
+densia_eu_01,densia_eu_01-060,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,65.8,65.8,0,High Baseline
+densia_eu_01,densia_eu_01-060,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,65.8,64.9,-0.9,High Baseline
+densia_eu_01,densia_eu_01-060,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,65.8,70.4,4.6,High Baseline
+densia_eu_01,densia_eu_01-061,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,41.7,41.7,0,Low Baseline
+densia_eu_01,densia_eu_01-061,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,41.7,41.6,-0.1,Low Baseline
+densia_eu_01,densia_eu_01-061,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,41.7,43.7,2,Low Baseline
+densia_eu_01,densia_eu_01-062,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,61.6,61.6,0,High Baseline
+densia_eu_01,densia_eu_01-062,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,61.6,61,-0.6,High Baseline
+densia_eu_01,densia_eu_01-062,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,61.6,64.3,2.7,High Baseline
+densia_eu_01,densia_eu_01-063,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,55.5,55.5,0,High Baseline
+densia_eu_01,densia_eu_01-063,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,55.5,53.2,-2.3,High Baseline
+densia_eu_01,densia_eu_01-063,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,55.5,54.5,-1,High Baseline
+densia_eu_01,densia_eu_01-064,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,64.3,64.3,0,High Baseline
+densia_eu_01,densia_eu_01-064,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,64.3,68.6,4.3,High Baseline
+densia_eu_01,densia_eu_01-064,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,64.3,67.7,3.4,High Baseline
+densia_eu_01,densia_eu_01-065,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,53.9,53.9,0,High Baseline
+densia_eu_01,densia_eu_01-065,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,53.9,52.8,-1.1,High Baseline
+densia_eu_01,densia_eu_01-065,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,53.9,50.8,-3.1,High Baseline
+densia_eu_01,densia_eu_01-066,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,44.6,44.6,0,Low Baseline
+densia_eu_01,densia_eu_01-066,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,44.6,43.2,-1.4,Low Baseline
+densia_eu_01,densia_eu_01-066,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,44.6,46.1,1.5,Low Baseline
+densia_eu_01,densia_eu_01-067,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,45.5,45.5,0,Low Baseline
+densia_eu_01,densia_eu_01-067,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,45.5,45.9,0.4,Low Baseline
+densia_eu_01,densia_eu_01-067,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,45.5,44.9,-0.6,Low Baseline
+densia_eu_01,densia_eu_01-068,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,37.1,37.1,0,Low Baseline
+densia_eu_01,densia_eu_01-068,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,37.1,34.5,-2.6,Low Baseline
+densia_eu_01,densia_eu_01-068,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,37.1,44.5,7.4,Low Baseline
+densia_eu_01,densia_eu_01-069,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,56.3,56.3,0,High Baseline
+densia_eu_01,densia_eu_01-069,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,56.3,62.6,6.3,High Baseline
+densia_eu_01,densia_eu_01-069,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,56.3,59.2,2.9,High Baseline
+densia_eu_01,densia_eu_01-070,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.4,48.4,0,Low Baseline
+densia_eu_01,densia_eu_01-070,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.4,49.8,1.4,Low Baseline
+densia_eu_01,densia_eu_01-070,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.4,49.8,1.4,Low Baseline
+densia_eu_01,densia_eu_01-071,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,47.5,47.5,0,Low Baseline
+densia_eu_01,densia_eu_01-071,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,47.5,53.8,6.3,Low Baseline
+densia_eu_01,densia_eu_01-071,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,47.5,50.9,3.4,Low Baseline
+densia_eu_01,densia_eu_01-072,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.6,48.6,0,Low Baseline
+densia_eu_01,densia_eu_01-072,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.6,49.7,1.1,Low Baseline
+densia_eu_01,densia_eu_01-072,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.6,48.1,-0.5,Low Baseline
+densia_eu_01,densia_eu_01-073,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,42.9,42.9,0,Low Baseline
+densia_eu_01,densia_eu_01-073,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,42.9,42.9,0,Low Baseline
+densia_eu_01,densia_eu_01-073,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,42.9,48.2,5.3,Low Baseline
+densia_eu_01,densia_eu_01-074,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,44.6,44.6,0,Low Baseline
+densia_eu_01,densia_eu_01-074,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,44.6,46,1.4,Low Baseline
+densia_eu_01,densia_eu_01-074,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,44.6,49.3,4.7,Low Baseline
+densia_eu_01,densia_eu_01-075,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,54.2,54.2,0,High Baseline
+densia_eu_01,densia_eu_01-075,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,54.2,56.3,2.1,High Baseline
+densia_eu_01,densia_eu_01-075,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,54.2,54.1,-0.1,High Baseline
+densia_eu_01,densia_eu_01-076,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,58.5,58.5,0,High Baseline
+densia_eu_01,densia_eu_01-076,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,58.5,56.8,-1.7,High Baseline
+densia_eu_01,densia_eu_01-076,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,58.5,58.1,-0.4,High Baseline
+densia_eu_01,densia_eu_01-077,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,48.5,48.5,0,Low Baseline
+densia_eu_01,densia_eu_01-077,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,48.5,48.1,-0.4,Low Baseline
+densia_eu_01,densia_eu_01-077,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,48.5,50.8,2.3,Low Baseline
+densia_eu_01,densia_eu_01-078,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,50,50,0,High Baseline
+densia_eu_01,densia_eu_01-078,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,50,48.3,-1.7,High Baseline
+densia_eu_01,densia_eu_01-078,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,50,49.1,-0.9,High Baseline
+densia_eu_01,densia_eu_01-079,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,49.9,49.9,0,High Baseline
+densia_eu_01,densia_eu_01-079,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,49.9,51.7,1.8,High Baseline
+densia_eu_01,densia_eu_01-079,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,49.9,52.1,2.2,High Baseline
+densia_eu_01,densia_eu_01-080,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",0,Baseline,Y,NA,49.5,49.5,0,High Baseline
+densia_eu_01,densia_eu_01-080,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",12,Week 12,NA,NA,49.5,46,-3.5,High Baseline
+densia_eu_01,densia_eu_01-080,Placebo,BONE_DENS,"Bone Density Score (T-score, standardized)",24,Week 24,NA,Y,49.5,50.8,1.3,High Baseline

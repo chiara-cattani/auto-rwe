@@ -1,0 +1,361 @@
+STUDYID,USUBJID,TRT01A,PARAMCD,PARAM,AVISITN,AVISIT,ABLFL,ANL01FL,BASE,AVAL,CHG,SUBGRP
+activia_us_04,activia_us_04-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,70.8,70.8,0,High Baseline
+activia_us_04,activia_us_04-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,70.8,62.7,-8.1,High Baseline
+activia_us_04,activia_us_04-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,70.8,55.6,-15.2,High Baseline
+activia_us_04,activia_us_04-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,40.7,40.7,0,Low Baseline
+activia_us_04,activia_us_04-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,40.7,24.7,-16,Low Baseline
+activia_us_04,activia_us_04-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,40.7,31,-9.7,Low Baseline
+activia_us_04,activia_us_04-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,37,37,0,Low Baseline
+activia_us_04,activia_us_04-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,37,38.3,1.3,Low Baseline
+activia_us_04,activia_us_04-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,37,38.4,1.4,Low Baseline
+activia_us_04,activia_us_04-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.5,58.5,0,High Baseline
+activia_us_04,activia_us_04-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.5,47.4,-11.1,High Baseline
+activia_us_04,activia_us_04-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.5,49.3,-9.2,High Baseline
+activia_us_04,activia_us_04-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,62,62,0,High Baseline
+activia_us_04,activia_us_04-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,62,65.6,3.6,High Baseline
+activia_us_04,activia_us_04-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,62,54.4,-7.6,High Baseline
+activia_us_04,activia_us_04-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,74.6,74.6,0,High Baseline
+activia_us_04,activia_us_04-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,74.6,70.9,-3.7,High Baseline
+activia_us_04,activia_us_04-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,74.6,56.5,-18.1,High Baseline
+activia_us_04,activia_us_04-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.5,57.5,0,High Baseline
+activia_us_04,activia_us_04-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,57.5,61.1,3.6,High Baseline
+activia_us_04,activia_us_04-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,57.5,49.3,-8.2,High Baseline
+activia_us_04,activia_us_04-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.9,63.9,0,High Baseline
+activia_us_04,activia_us_04-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,63.9,54.5,-9.4,High Baseline
+activia_us_04,activia_us_04-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,63.9,47.6,-16.3,High Baseline
+activia_us_04,activia_us_04-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,76,76,0,High Baseline
+activia_us_04,activia_us_04-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,76,68.9,-7.1,High Baseline
+activia_us_04,activia_us_04-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,76,59.6,-16.4,High Baseline
+activia_us_04,activia_us_04-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,74.4,74.4,0,High Baseline
+activia_us_04,activia_us_04-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,74.4,68.6,-5.8,High Baseline
+activia_us_04,activia_us_04-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,74.4,66.5,-7.9,High Baseline
+activia_us_04,activia_us_04-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.6,69.6,0,High Baseline
+activia_us_04,activia_us_04-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.6,64.6,-5,High Baseline
+activia_us_04,activia_us_04-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.6,63.1,-6.5,High Baseline
+activia_us_04,activia_us_04-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,62.5,62.5,0,High Baseline
+activia_us_04,activia_us_04-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,62.5,61.4,-1.1,High Baseline
+activia_us_04,activia_us_04-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,62.5,41.7,-20.8,High Baseline
+activia_us_04,activia_us_04-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.3,63.3,0,High Baseline
+activia_us_04,activia_us_04-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,63.3,56.5,-6.8,High Baseline
+activia_us_04,activia_us_04-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,63.3,48.3,-15,High Baseline
+activia_us_04,activia_us_04-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,74.8,74.8,0,High Baseline
+activia_us_04,activia_us_04-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,74.8,77.3,2.5,High Baseline
+activia_us_04,activia_us_04-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,74.8,65.3,-9.5,High Baseline
+activia_us_04,activia_us_04-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,73.4,73.4,0,High Baseline
+activia_us_04,activia_us_04-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,73.4,72.2,-1.2,High Baseline
+activia_us_04,activia_us_04-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,73.4,59,-14.4,High Baseline
+activia_us_04,activia_us_04-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.1,57.1,0,Low Baseline
+activia_us_04,activia_us_04-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,57.1,59.8,2.7,Low Baseline
+activia_us_04,activia_us_04-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,57.1,46.4,-10.7,Low Baseline
+activia_us_04,activia_us_04-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.1,63.1,0,High Baseline
+activia_us_04,activia_us_04-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,63.1,54.5,-8.6,High Baseline
+activia_us_04,activia_us_04-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,63.1,46.1,-17,High Baseline
+activia_us_04,activia_us_04-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,81.7,81.7,0,High Baseline
+activia_us_04,activia_us_04-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,81.7,77.5,-4.2,High Baseline
+activia_us_04,activia_us_04-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,81.7,74.3,-7.4,High Baseline
+activia_us_04,activia_us_04-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,78.6,78.6,0,High Baseline
+activia_us_04,activia_us_04-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,78.6,79.8,1.2,High Baseline
+activia_us_04,activia_us_04-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,78.6,60.6,-18,High Baseline
+activia_us_04,activia_us_04-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,44.3,44.3,0,Low Baseline
+activia_us_04,activia_us_04-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,44.3,40.5,-3.8,Low Baseline
+activia_us_04,activia_us_04-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,44.3,33.4,-10.9,Low Baseline
+activia_us_04,activia_us_04-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,78.3,78.3,0,High Baseline
+activia_us_04,activia_us_04-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,78.3,74.6,-3.7,High Baseline
+activia_us_04,activia_us_04-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,78.3,75.3,-3,High Baseline
+activia_us_04,activia_us_04-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.8,56.8,0,Low Baseline
+activia_us_04,activia_us_04-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,56.8,48.6,-8.2,Low Baseline
+activia_us_04,activia_us_04-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,56.8,38,-18.8,Low Baseline
+activia_us_04,activia_us_04-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,36,36,0,Low Baseline
+activia_us_04,activia_us_04-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,36,27.1,-8.9,Low Baseline
+activia_us_04,activia_us_04-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,36,31.4,-4.6,Low Baseline
+activia_us_04,activia_us_04-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,76.1,76.1,0,High Baseline
+activia_us_04,activia_us_04-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,76.1,72.6,-3.5,High Baseline
+activia_us_04,activia_us_04-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,76.1,70.7,-5.4,High Baseline
+activia_us_04,activia_us_04-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,59.2,59.2,0,High Baseline
+activia_us_04,activia_us_04-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,59.2,51,-8.2,High Baseline
+activia_us_04,activia_us_04-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,59.2,46.3,-12.9,High Baseline
+activia_us_04,activia_us_04-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,71.5,71.5,0,High Baseline
+activia_us_04,activia_us_04-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,71.5,63.3,-8.2,High Baseline
+activia_us_04,activia_us_04-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,71.5,58.9,-12.6,High Baseline
+activia_us_04,activia_us_04-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,85.1,85.1,0,High Baseline
+activia_us_04,activia_us_04-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,85.1,83.1,-2,High Baseline
+activia_us_04,activia_us_04-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,85.1,77.4,-7.7,High Baseline
+activia_us_04,activia_us_04-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,73.1,73.1,0,High Baseline
+activia_us_04,activia_us_04-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,73.1,71.1,-2,High Baseline
+activia_us_04,activia_us_04-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,73.1,62.8,-10.3,High Baseline
+activia_us_04,activia_us_04-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,53,53,0,Low Baseline
+activia_us_04,activia_us_04-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,53,57.5,4.5,Low Baseline
+activia_us_04,activia_us_04-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,53,34.7,-18.3,Low Baseline
+activia_us_04,activia_us_04-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.1,56.1,0,Low Baseline
+activia_us_04,activia_us_04-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,56.1,53.3,-2.8,Low Baseline
+activia_us_04,activia_us_04-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,56.1,47.2,-8.9,Low Baseline
+activia_us_04,activia_us_04-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,44.2,44.2,0,Low Baseline
+activia_us_04,activia_us_04-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,44.2,38.4,-5.8,Low Baseline
+activia_us_04,activia_us_04-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,44.2,44.2,0,Low Baseline
+activia_us_04,activia_us_04-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.5,46.5,0,Low Baseline
+activia_us_04,activia_us_04-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.5,40.1,-6.4,Low Baseline
+activia_us_04,activia_us_04-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.5,33.1,-13.4,Low Baseline
+activia_us_04,activia_us_04-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,64.9,64.9,0,High Baseline
+activia_us_04,activia_us_04-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,64.9,58.6,-6.3,High Baseline
+activia_us_04,activia_us_04-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,64.9,46.4,-18.5,High Baseline
+activia_us_04,activia_us_04-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,53.8,53.8,0,Low Baseline
+activia_us_04,activia_us_04-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,53.8,49.8,-4,Low Baseline
+activia_us_04,activia_us_04-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,53.8,52.1,-1.7,Low Baseline
+activia_us_04,activia_us_04-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67.2,67.2,0,High Baseline
+activia_us_04,activia_us_04-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,67.2,68.4,1.2,High Baseline
+activia_us_04,activia_us_04-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,67.2,48.8,-18.4,High Baseline
+activia_us_04,activia_us_04-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.7,69.7,0,High Baseline
+activia_us_04,activia_us_04-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.7,62,-7.7,High Baseline
+activia_us_04,activia_us_04-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.7,57.8,-11.9,High Baseline
+activia_us_04,activia_us_04-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.1,63.1,0,High Baseline
+activia_us_04,activia_us_04-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,63.1,58.3,-4.8,High Baseline
+activia_us_04,activia_us_04-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,63.1,51.9,-11.2,High Baseline
+activia_us_04,activia_us_04-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52.4,52.4,0,Low Baseline
+activia_us_04,activia_us_04-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,52.4,52.2,-0.2,Low Baseline
+activia_us_04,activia_us_04-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,52.4,44.2,-8.2,Low Baseline
+activia_us_04,activia_us_04-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,37,37,0,Low Baseline
+activia_us_04,activia_us_04-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,37,27,-10,Low Baseline
+activia_us_04,activia_us_04-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,37,24.5,-12.5,Low Baseline
+activia_us_04,activia_us_04-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,59.6,59.6,0,High Baseline
+activia_us_04,activia_us_04-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,59.6,54.4,-5.2,High Baseline
+activia_us_04,activia_us_04-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,59.6,55.4,-4.2,High Baseline
+activia_us_04,activia_us_04-041,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,43.5,43.5,0,Low Baseline
+activia_us_04,activia_us_04-041,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,43.5,41.6,-1.9,Low Baseline
+activia_us_04,activia_us_04-041,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,43.5,27.1,-16.4,Low Baseline
+activia_us_04,activia_us_04-042,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67,67,0,High Baseline
+activia_us_04,activia_us_04-042,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,67,56.7,-10.3,High Baseline
+activia_us_04,activia_us_04-042,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,67,58.9,-8.1,High Baseline
+activia_us_04,activia_us_04-043,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,68.8,68.8,0,High Baseline
+activia_us_04,activia_us_04-043,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,68.8,65.7,-3.1,High Baseline
+activia_us_04,activia_us_04-043,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,68.8,56,-12.8,High Baseline
+activia_us_04,activia_us_04-044,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,62.4,62.4,0,High Baseline
+activia_us_04,activia_us_04-044,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,62.4,51.4,-11,High Baseline
+activia_us_04,activia_us_04-044,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,62.4,46,-16.4,High Baseline
+activia_us_04,activia_us_04-045,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,43.5,43.5,0,Low Baseline
+activia_us_04,activia_us_04-045,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,43.5,38,-5.5,Low Baseline
+activia_us_04,activia_us_04-045,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,43.5,25.6,-17.9,Low Baseline
+activia_us_04,activia_us_04-046,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,47.4,47.4,0,Low Baseline
+activia_us_04,activia_us_04-046,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,47.4,33.2,-14.2,Low Baseline
+activia_us_04,activia_us_04-046,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,47.4,36.3,-11.1,Low Baseline
+activia_us_04,activia_us_04-047,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.1,51.1,0,Low Baseline
+activia_us_04,activia_us_04-047,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,51.1,43.1,-8,Low Baseline
+activia_us_04,activia_us_04-047,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,51.1,35.1,-16,Low Baseline
+activia_us_04,activia_us_04-048,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,60.1,60.1,0,High Baseline
+activia_us_04,activia_us_04-048,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,60.1,53.7,-6.4,High Baseline
+activia_us_04,activia_us_04-048,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,60.1,43.8,-16.3,High Baseline
+activia_us_04,activia_us_04-049,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,91,91,0,High Baseline
+activia_us_04,activia_us_04-049,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,91,79.2,-11.8,High Baseline
+activia_us_04,activia_us_04-049,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,91,76.7,-14.3,High Baseline
+activia_us_04,activia_us_04-050,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,45.1,45.1,0,Low Baseline
+activia_us_04,activia_us_04-050,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,45.1,47.7,2.6,Low Baseline
+activia_us_04,activia_us_04-050,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,45.1,29.7,-15.4,Low Baseline
+activia_us_04,activia_us_04-051,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,27.8,27.8,0,Low Baseline
+activia_us_04,activia_us_04-051,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,27.8,21.2,-6.6,Low Baseline
+activia_us_04,activia_us_04-051,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,27.8,19.3,-8.5,Low Baseline
+activia_us_04,activia_us_04-052,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.3,56.3,0,Low Baseline
+activia_us_04,activia_us_04-052,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,56.3,55.8,-0.5,Low Baseline
+activia_us_04,activia_us_04-052,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,56.3,38.8,-17.5,Low Baseline
+activia_us_04,activia_us_04-053,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.3,46.3,0,Low Baseline
+activia_us_04,activia_us_04-053,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.3,41.9,-4.4,Low Baseline
+activia_us_04,activia_us_04-053,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.3,42.6,-3.7,Low Baseline
+activia_us_04,activia_us_04-054,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,27.6,27.6,0,Low Baseline
+activia_us_04,activia_us_04-054,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,27.6,25.6,-2,Low Baseline
+activia_us_04,activia_us_04-054,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,27.6,20.6,-7,Low Baseline
+activia_us_04,activia_us_04-055,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,45.8,45.8,0,Low Baseline
+activia_us_04,activia_us_04-055,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,45.8,40.9,-4.9,Low Baseline
+activia_us_04,activia_us_04-055,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,45.8,36.1,-9.7,Low Baseline
+activia_us_04,activia_us_04-056,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52.8,52.8,0,Low Baseline
+activia_us_04,activia_us_04-056,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,52.8,49.5,-3.3,Low Baseline
+activia_us_04,activia_us_04-056,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,52.8,45.3,-7.5,Low Baseline
+activia_us_04,activia_us_04-057,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.6,42.6,0,Low Baseline
+activia_us_04,activia_us_04-057,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,42.6,40.2,-2.4,Low Baseline
+activia_us_04,activia_us_04-057,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,42.6,35.4,-7.2,Low Baseline
+activia_us_04,activia_us_04-058,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,68,68,0,High Baseline
+activia_us_04,activia_us_04-058,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,68,69.9,1.9,High Baseline
+activia_us_04,activia_us_04-058,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,68,61.1,-6.9,High Baseline
+activia_us_04,activia_us_04-059,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,70.7,70.7,0,High Baseline
+activia_us_04,activia_us_04-059,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,70.7,61.8,-8.9,High Baseline
+activia_us_04,activia_us_04-059,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,70.7,60.8,-9.9,High Baseline
+activia_us_04,activia_us_04-060,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,53.5,53.5,0,Low Baseline
+activia_us_04,activia_us_04-060,Active,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,53.5,39.8,-13.7,Low Baseline
+activia_us_04,activia_us_04-060,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,53.5,36.8,-16.7,Low Baseline
+activia_us_04,activia_us_04-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,37.3,37.3,0,Low Baseline
+activia_us_04,activia_us_04-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,37.3,42.4,5.1,Low Baseline
+activia_us_04,activia_us_04-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,37.3,36.4,-0.9,Low Baseline
+activia_us_04,activia_us_04-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,66.3,66.3,0,High Baseline
+activia_us_04,activia_us_04-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,66.3,66.6,0.3,High Baseline
+activia_us_04,activia_us_04-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,66.3,62.6,-3.7,High Baseline
+activia_us_04,activia_us_04-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46,46,0,Low Baseline
+activia_us_04,activia_us_04-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46,40.3,-5.7,Low Baseline
+activia_us_04,activia_us_04-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46,35.7,-10.3,Low Baseline
+activia_us_04,activia_us_04-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.4,46.4,0,Low Baseline
+activia_us_04,activia_us_04-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.4,41.5,-4.9,Low Baseline
+activia_us_04,activia_us_04-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.4,41.7,-4.7,Low Baseline
+activia_us_04,activia_us_04-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,60.1,60.1,0,High Baseline
+activia_us_04,activia_us_04-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,60.1,60.8,0.7,High Baseline
+activia_us_04,activia_us_04-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,60.1,54.1,-6,High Baseline
+activia_us_04,activia_us_04-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,44.3,44.3,0,Low Baseline
+activia_us_04,activia_us_04-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,44.3,43.6,-0.7,Low Baseline
+activia_us_04,activia_us_04-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,44.3,34.4,-9.9,Low Baseline
+activia_us_04,activia_us_04-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,53.9,53.9,0,Low Baseline
+activia_us_04,activia_us_04-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,53.9,52.8,-1.1,Low Baseline
+activia_us_04,activia_us_04-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,53.9,51.2,-2.7,Low Baseline
+activia_us_04,activia_us_04-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,47.2,47.2,0,Low Baseline
+activia_us_04,activia_us_04-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,47.2,36.6,-10.6,Low Baseline
+activia_us_04,activia_us_04-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,47.2,33.2,-14,Low Baseline
+activia_us_04,activia_us_04-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.5,63.5,0,High Baseline
+activia_us_04,activia_us_04-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,63.5,63.3,-0.2,High Baseline
+activia_us_04,activia_us_04-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,63.5,58.7,-4.8,High Baseline
+activia_us_04,activia_us_04-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.2,46.2,0,Low Baseline
+activia_us_04,activia_us_04-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.2,40.3,-5.9,Low Baseline
+activia_us_04,activia_us_04-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.2,45,-1.2,Low Baseline
+activia_us_04,activia_us_04-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.2,46.2,0,Low Baseline
+activia_us_04,activia_us_04-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.2,47.9,1.7,Low Baseline
+activia_us_04,activia_us_04-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.2,44.4,-1.8,Low Baseline
+activia_us_04,activia_us_04-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,44.5,44.5,0,Low Baseline
+activia_us_04,activia_us_04-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,44.5,42,-2.5,Low Baseline
+activia_us_04,activia_us_04-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,44.5,45,0.5,Low Baseline
+activia_us_04,activia_us_04-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.2,58.2,0,High Baseline
+activia_us_04,activia_us_04-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.2,63.6,5.4,High Baseline
+activia_us_04,activia_us_04-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.2,56.1,-2.1,High Baseline
+activia_us_04,activia_us_04-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,75,75,0,High Baseline
+activia_us_04,activia_us_04-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,75,75.3,0.3,High Baseline
+activia_us_04,activia_us_04-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,75,69.7,-5.3,High Baseline
+activia_us_04,activia_us_04-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,45.6,45.6,0,Low Baseline
+activia_us_04,activia_us_04-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,45.6,47.8,2.2,Low Baseline
+activia_us_04,activia_us_04-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,45.6,45.1,-0.5,Low Baseline
+activia_us_04,activia_us_04-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,61.1,61.1,0,High Baseline
+activia_us_04,activia_us_04-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,61.1,67.4,6.3,High Baseline
+activia_us_04,activia_us_04-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,61.1,64.5,3.4,High Baseline
+activia_us_04,activia_us_04-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,48.8,48.8,0,Low Baseline
+activia_us_04,activia_us_04-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,48.8,46.6,-2.2,Low Baseline
+activia_us_04,activia_us_04-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,48.8,44.3,-4.5,Low Baseline
+activia_us_04,activia_us_04-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.8,42.8,0,Low Baseline
+activia_us_04,activia_us_04-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,42.8,36.9,-5.9,Low Baseline
+activia_us_04,activia_us_04-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,42.8,36.8,-6,Low Baseline
+activia_us_04,activia_us_04-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,73.3,73.3,0,High Baseline
+activia_us_04,activia_us_04-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,73.3,73.2,-0.1,High Baseline
+activia_us_04,activia_us_04-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,73.3,63.3,-10,High Baseline
+activia_us_04,activia_us_04-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,50,50,0,Low Baseline
+activia_us_04,activia_us_04-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,50,54.5,4.5,Low Baseline
+activia_us_04,activia_us_04-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,50,53.4,3.4,Low Baseline
+activia_us_04,activia_us_04-081,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,80.7,80.7,0,High Baseline
+activia_us_04,activia_us_04-081,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,80.7,76.6,-4.1,High Baseline
+activia_us_04,activia_us_04-081,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,80.7,74.7,-6,High Baseline
+activia_us_04,activia_us_04-082,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,48.4,48.4,0,Low Baseline
+activia_us_04,activia_us_04-082,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,48.4,43.6,-4.8,Low Baseline
+activia_us_04,activia_us_04-082,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,48.4,41.6,-6.8,Low Baseline
+activia_us_04,activia_us_04-083,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67.2,67.2,0,High Baseline
+activia_us_04,activia_us_04-083,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,67.2,62.4,-4.8,High Baseline
+activia_us_04,activia_us_04-083,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,67.2,61.5,-5.7,High Baseline
+activia_us_04,activia_us_04-084,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,73.5,73.5,0,High Baseline
+activia_us_04,activia_us_04-084,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,73.5,74.5,1,High Baseline
+activia_us_04,activia_us_04-084,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,73.5,74.3,0.8,High Baseline
+activia_us_04,activia_us_04-085,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,88,88,0,High Baseline
+activia_us_04,activia_us_04-085,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,88,86.2,-1.8,High Baseline
+activia_us_04,activia_us_04-085,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,88,95.7,7.7,High Baseline
+activia_us_04,activia_us_04-086,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.4,46.4,0,Low Baseline
+activia_us_04,activia_us_04-086,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.4,48.1,1.7,Low Baseline
+activia_us_04,activia_us_04-086,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.4,38.9,-7.5,Low Baseline
+activia_us_04,activia_us_04-087,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,59.1,59.1,0,High Baseline
+activia_us_04,activia_us_04-087,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,59.1,59.8,0.7,High Baseline
+activia_us_04,activia_us_04-087,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,59.1,50.5,-8.6,High Baseline
+activia_us_04,activia_us_04-088,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,71.1,71.1,0,High Baseline
+activia_us_04,activia_us_04-088,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,71.1,74.7,3.6,High Baseline
+activia_us_04,activia_us_04-088,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,71.1,71.5,0.4,High Baseline
+activia_us_04,activia_us_04-089,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51,51,0,Low Baseline
+activia_us_04,activia_us_04-089,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,51,49.7,-1.3,Low Baseline
+activia_us_04,activia_us_04-089,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,51,54.6,3.6,Low Baseline
+activia_us_04,activia_us_04-090,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,66.3,66.3,0,High Baseline
+activia_us_04,activia_us_04-090,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,66.3,61,-5.3,High Baseline
+activia_us_04,activia_us_04-090,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,66.3,61.5,-4.8,High Baseline
+activia_us_04,activia_us_04-091,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52,52,0,Low Baseline
+activia_us_04,activia_us_04-091,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,52,44.3,-7.7,Low Baseline
+activia_us_04,activia_us_04-091,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,52,47.6,-4.4,Low Baseline
+activia_us_04,activia_us_04-092,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.1,42.1,0,Low Baseline
+activia_us_04,activia_us_04-092,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,42.1,41.2,-0.9,Low Baseline
+activia_us_04,activia_us_04-092,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,42.1,41.3,-0.8,Low Baseline
+activia_us_04,activia_us_04-093,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,26.7,26.7,0,Low Baseline
+activia_us_04,activia_us_04-093,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,26.7,32.1,5.4,Low Baseline
+activia_us_04,activia_us_04-093,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,26.7,28.7,2,Low Baseline
+activia_us_04,activia_us_04-094,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,65.2,65.2,0,High Baseline
+activia_us_04,activia_us_04-094,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,65.2,62.3,-2.9,High Baseline
+activia_us_04,activia_us_04-094,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,65.2,65.5,0.3,High Baseline
+activia_us_04,activia_us_04-095,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,53.2,53.2,0,Low Baseline
+activia_us_04,activia_us_04-095,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,53.2,46.8,-6.4,Low Baseline
+activia_us_04,activia_us_04-095,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,53.2,38.1,-15.1,Low Baseline
+activia_us_04,activia_us_04-096,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,82.1,82.1,0,High Baseline
+activia_us_04,activia_us_04-096,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,82.1,68.5,-13.6,High Baseline
+activia_us_04,activia_us_04-096,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,82.1,78,-4.1,High Baseline
+activia_us_04,activia_us_04-097,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.4,42.4,0,Low Baseline
+activia_us_04,activia_us_04-097,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,42.4,44.3,1.9,Low Baseline
+activia_us_04,activia_us_04-097,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,42.4,43.5,1.1,Low Baseline
+activia_us_04,activia_us_04-098,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.2,51.2,0,Low Baseline
+activia_us_04,activia_us_04-098,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,51.2,44.9,-6.3,Low Baseline
+activia_us_04,activia_us_04-098,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,51.2,51.7,0.5,Low Baseline
+activia_us_04,activia_us_04-099,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.3,69.3,0,High Baseline
+activia_us_04,activia_us_04-099,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,69.3,58,-11.3,High Baseline
+activia_us_04,activia_us_04-099,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,69.3,64.7,-4.6,High Baseline
+activia_us_04,activia_us_04-100,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,54.3,54.3,0,Low Baseline
+activia_us_04,activia_us_04-100,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,54.3,47,-7.3,Low Baseline
+activia_us_04,activia_us_04-100,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,54.3,47.2,-7.1,Low Baseline
+activia_us_04,activia_us_04-101,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,64.8,64.8,0,High Baseline
+activia_us_04,activia_us_04-101,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,64.8,67.4,2.6,High Baseline
+activia_us_04,activia_us_04-101,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,64.8,60.5,-4.3,High Baseline
+activia_us_04,activia_us_04-102,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,76.9,76.9,0,High Baseline
+activia_us_04,activia_us_04-102,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,76.9,71.7,-5.2,High Baseline
+activia_us_04,activia_us_04-102,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,76.9,70,-6.9,High Baseline
+activia_us_04,activia_us_04-103,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,88.5,88.5,0,High Baseline
+activia_us_04,activia_us_04-103,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,88.5,89.2,0.7,High Baseline
+activia_us_04,activia_us_04-103,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,88.5,82.4,-6.1,High Baseline
+activia_us_04,activia_us_04-104,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.7,58.7,0,High Baseline
+activia_us_04,activia_us_04-104,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.7,59.3,0.6,High Baseline
+activia_us_04,activia_us_04-104,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.7,50.4,-8.3,High Baseline
+activia_us_04,activia_us_04-105,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.3,46.3,0,Low Baseline
+activia_us_04,activia_us_04-105,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.3,43.6,-2.7,Low Baseline
+activia_us_04,activia_us_04-105,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.3,38.5,-7.8,Low Baseline
+activia_us_04,activia_us_04-106,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.8,42.8,0,Low Baseline
+activia_us_04,activia_us_04-106,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,42.8,39.3,-3.5,Low Baseline
+activia_us_04,activia_us_04-106,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,42.8,34.4,-8.4,Low Baseline
+activia_us_04,activia_us_04-107,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,50.3,50.3,0,Low Baseline
+activia_us_04,activia_us_04-107,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,50.3,41.9,-8.4,Low Baseline
+activia_us_04,activia_us_04-107,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,50.3,48.2,-2.1,Low Baseline
+activia_us_04,activia_us_04-108,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52,52,0,Low Baseline
+activia_us_04,activia_us_04-108,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,52,54,2,Low Baseline
+activia_us_04,activia_us_04-108,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,52,50.1,-1.9,Low Baseline
+activia_us_04,activia_us_04-109,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,41,41,0,Low Baseline
+activia_us_04,activia_us_04-109,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,41,37.3,-3.7,Low Baseline
+activia_us_04,activia_us_04-109,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,41,40,-1,Low Baseline
+activia_us_04,activia_us_04-110,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,66.4,66.4,0,High Baseline
+activia_us_04,activia_us_04-110,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,66.4,66.8,0.4,High Baseline
+activia_us_04,activia_us_04-110,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,66.4,64,-2.4,High Baseline
+activia_us_04,activia_us_04-111,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,77.9,77.9,0,High Baseline
+activia_us_04,activia_us_04-111,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,77.9,76.5,-1.4,High Baseline
+activia_us_04,activia_us_04-111,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,77.9,66.8,-11.1,High Baseline
+activia_us_04,activia_us_04-112,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.8,51.8,0,Low Baseline
+activia_us_04,activia_us_04-112,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,51.8,46.5,-5.3,Low Baseline
+activia_us_04,activia_us_04-112,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,51.8,47.3,-4.5,Low Baseline
+activia_us_04,activia_us_04-113,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,43.4,43.4,0,Low Baseline
+activia_us_04,activia_us_04-113,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,43.4,40.6,-2.8,Low Baseline
+activia_us_04,activia_us_04-113,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,43.4,47,3.6,Low Baseline
+activia_us_04,activia_us_04-114,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,40.2,40.2,0,Low Baseline
+activia_us_04,activia_us_04-114,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,40.2,25.8,-14.4,Low Baseline
+activia_us_04,activia_us_04-114,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,40.2,27.9,-12.3,Low Baseline
+activia_us_04,activia_us_04-115,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,68.8,68.8,0,High Baseline
+activia_us_04,activia_us_04-115,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,68.8,60.4,-8.4,High Baseline
+activia_us_04,activia_us_04-115,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,68.8,75.2,6.4,High Baseline
+activia_us_04,activia_us_04-116,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.4,58.4,0,High Baseline
+activia_us_04,activia_us_04-116,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58.4,55.9,-2.5,High Baseline
+activia_us_04,activia_us_04-116,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58.4,59.3,0.9,High Baseline
+activia_us_04,activia_us_04-117,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,31.3,31.3,0,Low Baseline
+activia_us_04,activia_us_04-117,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,31.3,32.5,1.2,Low Baseline
+activia_us_04,activia_us_04-117,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,31.3,36.2,4.9,Low Baseline
+activia_us_04,activia_us_04-118,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.3,56.3,0,Low Baseline
+activia_us_04,activia_us_04-118,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,56.3,48.9,-7.4,Low Baseline
+activia_us_04,activia_us_04-118,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,56.3,57.6,1.3,Low Baseline
+activia_us_04,activia_us_04-119,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58,58,0,High Baseline
+activia_us_04,activia_us_04-119,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,58,60.4,2.4,High Baseline
+activia_us_04,activia_us_04-119,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,58,56.4,-1.6,High Baseline
+activia_us_04,activia_us_04-120,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.2,46.2,0,Low Baseline
+activia_us_04,activia_us_04-120,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),4,Week 4,NA,NA,46.2,48.9,2.7,Low Baseline
+activia_us_04,activia_us_04-120,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,Y,46.2,51.4,5.2,Low Baseline

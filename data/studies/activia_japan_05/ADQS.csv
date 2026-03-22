@@ -1,0 +1,271 @@
+STUDYID,USUBJID,TRT01A,PARAMCD,PARAM,AVISITN,AVISIT,ABLFL,ANL01FL,BASE,AVAL,CHG,SUBGRP
+activia_japan_05,activia_japan_05-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,71.1,71.1,0,High Baseline
+activia_japan_05,activia_japan_05-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,71.1,76.1,5,High Baseline
+activia_japan_05,activia_japan_05-001,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,71.1,68.9,-2.2,High Baseline
+activia_japan_05,activia_japan_05-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,37,37,0,Low Baseline
+activia_japan_05,activia_japan_05-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,37,27.5,-9.5,Low Baseline
+activia_japan_05,activia_japan_05-002,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,37,34.8,-2.2,Low Baseline
+activia_japan_05,activia_japan_05-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,61.2,61.2,0,High Baseline
+activia_japan_05,activia_japan_05-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,61.2,57.7,-3.5,High Baseline
+activia_japan_05,activia_japan_05-003,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,61.2,55.7,-5.5,High Baseline
+activia_japan_05,activia_japan_05-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55.2,55.2,0,High Baseline
+activia_japan_05,activia_japan_05-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,55.2,46.3,-8.9,High Baseline
+activia_japan_05,activia_japan_05-004,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,55.2,69.7,14.5,High Baseline
+activia_japan_05,activia_japan_05-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.1,56.1,0,High Baseline
+activia_japan_05,activia_japan_05-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,56.1,50.1,-6,High Baseline
+activia_japan_05,activia_japan_05-005,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,56.1,50.8,-5.3,High Baseline
+activia_japan_05,activia_japan_05-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52.6,52.6,0,Low Baseline
+activia_japan_05,activia_japan_05-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,52.6,53.8,1.2,Low Baseline
+activia_japan_05,activia_japan_05-006,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,52.6,39.3,-13.3,Low Baseline
+activia_japan_05,activia_japan_05-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,38.5,38.5,0,Low Baseline
+activia_japan_05,activia_japan_05-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,38.5,35.7,-2.8,Low Baseline
+activia_japan_05,activia_japan_05-007,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,38.5,39.6,1.1,Low Baseline
+activia_japan_05,activia_japan_05-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,59.3,59.3,0,High Baseline
+activia_japan_05,activia_japan_05-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,59.3,61.9,2.6,High Baseline
+activia_japan_05,activia_japan_05-008,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,59.3,57,-2.3,High Baseline
+activia_japan_05,activia_japan_05-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,72.6,72.6,0,High Baseline
+activia_japan_05,activia_japan_05-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,72.6,78.8,6.2,High Baseline
+activia_japan_05,activia_japan_05-009,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,72.6,62.2,-10.4,High Baseline
+activia_japan_05,activia_japan_05-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,76.3,76.3,0,High Baseline
+activia_japan_05,activia_japan_05-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,76.3,75.4,-0.9,High Baseline
+activia_japan_05,activia_japan_05-010,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,76.3,73.1,-3.2,High Baseline
+activia_japan_05,activia_japan_05-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,61.2,61.2,0,High Baseline
+activia_japan_05,activia_japan_05-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,61.2,61.1,-0.1,High Baseline
+activia_japan_05,activia_japan_05-011,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,61.2,49.6,-11.6,High Baseline
+activia_japan_05,activia_japan_05-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,45.4,45.4,0,Low Baseline
+activia_japan_05,activia_japan_05-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,45.4,52.6,7.2,Low Baseline
+activia_japan_05,activia_japan_05-012,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,45.4,48.3,2.9,Low Baseline
+activia_japan_05,activia_japan_05-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,47.4,47.4,0,Low Baseline
+activia_japan_05,activia_japan_05-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,47.4,54.2,6.8,Low Baseline
+activia_japan_05,activia_japan_05-013,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,47.4,41,-6.4,Low Baseline
+activia_japan_05,activia_japan_05-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,47.1,47.1,0,Low Baseline
+activia_japan_05,activia_japan_05-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,47.1,52.3,5.2,Low Baseline
+activia_japan_05,activia_japan_05-014,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,47.1,50.9,3.8,Low Baseline
+activia_japan_05,activia_japan_05-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,62.8,62.8,0,High Baseline
+activia_japan_05,activia_japan_05-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,62.8,58.2,-4.6,High Baseline
+activia_japan_05,activia_japan_05-015,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,62.8,55.2,-7.6,High Baseline
+activia_japan_05,activia_japan_05-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.9,51.9,0,Low Baseline
+activia_japan_05,activia_japan_05-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,51.9,49.2,-2.7,Low Baseline
+activia_japan_05,activia_japan_05-016,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,51.9,44.6,-7.3,Low Baseline
+activia_japan_05,activia_japan_05-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,92.8,92.8,0,High Baseline
+activia_japan_05,activia_japan_05-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,92.8,96.9,4.1,High Baseline
+activia_japan_05,activia_japan_05-017,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,92.8,92.4,-0.4,High Baseline
+activia_japan_05,activia_japan_05-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.5,51.5,0,Low Baseline
+activia_japan_05,activia_japan_05-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,51.5,45.8,-5.7,Low Baseline
+activia_japan_05,activia_japan_05-018,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,51.5,49.4,-2.1,Low Baseline
+activia_japan_05,activia_japan_05-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.9,56.9,0,High Baseline
+activia_japan_05,activia_japan_05-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,56.9,54.3,-2.6,High Baseline
+activia_japan_05,activia_japan_05-019,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,56.9,47.7,-9.2,High Baseline
+activia_japan_05,activia_japan_05-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,52.3,52.3,0,Low Baseline
+activia_japan_05,activia_japan_05-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,52.3,49.8,-2.5,Low Baseline
+activia_japan_05,activia_japan_05-020,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,52.3,56.8,4.5,Low Baseline
+activia_japan_05,activia_japan_05-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.6,46.6,0,Low Baseline
+activia_japan_05,activia_japan_05-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,46.6,42,-4.6,Low Baseline
+activia_japan_05,activia_japan_05-021,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,46.6,33.5,-13.1,Low Baseline
+activia_japan_05,activia_japan_05-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,66,66,0,High Baseline
+activia_japan_05,activia_japan_05-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,66,59.7,-6.3,High Baseline
+activia_japan_05,activia_japan_05-022,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,66,67.8,1.8,High Baseline
+activia_japan_05,activia_japan_05-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,48.1,48.1,0,Low Baseline
+activia_japan_05,activia_japan_05-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,48.1,42.5,-5.6,Low Baseline
+activia_japan_05,activia_japan_05-023,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,48.1,45.9,-2.2,Low Baseline
+activia_japan_05,activia_japan_05-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55,55,0,High Baseline
+activia_japan_05,activia_japan_05-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,55,53.8,-1.2,High Baseline
+activia_japan_05,activia_japan_05-024,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,55,48.8,-6.2,High Baseline
+activia_japan_05,activia_japan_05-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.3,51.3,0,Low Baseline
+activia_japan_05,activia_japan_05-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,51.3,56.2,4.9,Low Baseline
+activia_japan_05,activia_japan_05-025,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,51.3,41.4,-9.9,Low Baseline
+activia_japan_05,activia_japan_05-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,18.2,18.2,0,Low Baseline
+activia_japan_05,activia_japan_05-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,18.2,11.8,-6.4,Low Baseline
+activia_japan_05,activia_japan_05-026,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,18.2,15.9,-2.3,Low Baseline
+activia_japan_05,activia_japan_05-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,63.5,63.5,0,High Baseline
+activia_japan_05,activia_japan_05-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,63.5,63.2,-0.3,High Baseline
+activia_japan_05,activia_japan_05-027,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,63.5,58.9,-4.6,High Baseline
+activia_japan_05,activia_japan_05-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.1,57.1,0,High Baseline
+activia_japan_05,activia_japan_05-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,57.1,66.4,9.3,High Baseline
+activia_japan_05,activia_japan_05-028,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,57.1,60.5,3.4,High Baseline
+activia_japan_05,activia_japan_05-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,43.9,43.9,0,Low Baseline
+activia_japan_05,activia_japan_05-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,43.9,39.8,-4.1,Low Baseline
+activia_japan_05,activia_japan_05-029,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,43.9,50.5,6.6,Low Baseline
+activia_japan_05,activia_japan_05-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,72.7,72.7,0,High Baseline
+activia_japan_05,activia_japan_05-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,72.7,71.9,-0.8,High Baseline
+activia_japan_05,activia_japan_05-030,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,72.7,75.4,2.7,High Baseline
+activia_japan_05,activia_japan_05-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,38.6,38.6,0,Low Baseline
+activia_japan_05,activia_japan_05-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,38.6,33.9,-4.7,Low Baseline
+activia_japan_05,activia_japan_05-031,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,38.6,33,-5.6,Low Baseline
+activia_japan_05,activia_japan_05-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,31.9,31.9,0,Low Baseline
+activia_japan_05,activia_japan_05-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,31.9,16.3,-15.6,Low Baseline
+activia_japan_05,activia_japan_05-032,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,31.9,26.1,-5.8,Low Baseline
+activia_japan_05,activia_japan_05-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.1,46.1,0,Low Baseline
+activia_japan_05,activia_japan_05-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,46.1,45.5,-0.6,Low Baseline
+activia_japan_05,activia_japan_05-033,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,46.1,44.5,-1.6,Low Baseline
+activia_japan_05,activia_japan_05-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,39.6,39.6,0,Low Baseline
+activia_japan_05,activia_japan_05-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,39.6,38.5,-1.1,Low Baseline
+activia_japan_05,activia_japan_05-034,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,39.6,35.5,-4.1,Low Baseline
+activia_japan_05,activia_japan_05-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,65.3,65.3,0,High Baseline
+activia_japan_05,activia_japan_05-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,65.3,67.2,1.9,High Baseline
+activia_japan_05,activia_japan_05-035,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,65.3,68.7,3.4,High Baseline
+activia_japan_05,activia_japan_05-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,56.1,56.1,0,High Baseline
+activia_japan_05,activia_japan_05-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,56.1,49.8,-6.3,High Baseline
+activia_japan_05,activia_japan_05-036,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,56.1,50.2,-5.9,High Baseline
+activia_japan_05,activia_japan_05-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,50.2,50.2,0,Low Baseline
+activia_japan_05,activia_japan_05-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,50.2,47.2,-3,Low Baseline
+activia_japan_05,activia_japan_05-037,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,50.2,44.4,-5.8,Low Baseline
+activia_japan_05,activia_japan_05-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55.1,55.1,0,High Baseline
+activia_japan_05,activia_japan_05-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,55.1,59.5,4.4,High Baseline
+activia_japan_05,activia_japan_05-038,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,55.1,45.5,-9.6,High Baseline
+activia_japan_05,activia_japan_05-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.6,42.6,0,Low Baseline
+activia_japan_05,activia_japan_05-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,42.6,34.5,-8.1,Low Baseline
+activia_japan_05,activia_japan_05-039,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,42.6,51.4,8.8,Low Baseline
+activia_japan_05,activia_japan_05-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.4,57.4,0,High Baseline
+activia_japan_05,activia_japan_05-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,57.4,59.3,1.9,High Baseline
+activia_japan_05,activia_japan_05-040,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,57.4,53.1,-4.3,High Baseline
+activia_japan_05,activia_japan_05-041,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.5,57.5,0,High Baseline
+activia_japan_05,activia_japan_05-041,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,57.5,52.5,-5,High Baseline
+activia_japan_05,activia_japan_05-041,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,57.5,48.5,-9,High Baseline
+activia_japan_05,activia_japan_05-042,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,54.1,54.1,0,Low Baseline
+activia_japan_05,activia_japan_05-042,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,54.1,55.2,1.1,Low Baseline
+activia_japan_05,activia_japan_05-042,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,54.1,50.8,-3.3,Low Baseline
+activia_japan_05,activia_japan_05-043,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55,55,0,High Baseline
+activia_japan_05,activia_japan_05-043,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,55,49.3,-5.7,High Baseline
+activia_japan_05,activia_japan_05-043,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,55,55.7,0.7,High Baseline
+activia_japan_05,activia_japan_05-044,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,40.6,40.6,0,Low Baseline
+activia_japan_05,activia_japan_05-044,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,40.6,35.1,-5.5,Low Baseline
+activia_japan_05,activia_japan_05-044,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,40.6,41.4,0.8,Low Baseline
+activia_japan_05,activia_japan_05-045,Active,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,67.2,67.2,0,High Baseline
+activia_japan_05,activia_japan_05-045,Active,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,67.2,60.9,-6.3,High Baseline
+activia_japan_05,activia_japan_05-045,Active,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,67.2,71.7,4.5,High Baseline
+activia_japan_05,activia_japan_05-046,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,35.7,35.7,0,Low Baseline
+activia_japan_05,activia_japan_05-046,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,35.7,41.6,5.9,Low Baseline
+activia_japan_05,activia_japan_05-046,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,35.7,37.4,1.7,Low Baseline
+activia_japan_05,activia_japan_05-047,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,84,84,0,High Baseline
+activia_japan_05,activia_japan_05-047,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,84,83.9,-0.1,High Baseline
+activia_japan_05,activia_japan_05-047,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,84,85.6,1.6,High Baseline
+activia_japan_05,activia_japan_05-048,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,76.1,76.1,0,High Baseline
+activia_japan_05,activia_japan_05-048,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,76.1,74.2,-1.9,High Baseline
+activia_japan_05,activia_japan_05-048,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,76.1,64.4,-11.7,High Baseline
+activia_japan_05,activia_japan_05-049,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,61.8,61.8,0,High Baseline
+activia_japan_05,activia_japan_05-049,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,61.8,60.7,-1.1,High Baseline
+activia_japan_05,activia_japan_05-049,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,61.8,60.5,-1.3,High Baseline
+activia_japan_05,activia_japan_05-050,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,37.4,37.4,0,Low Baseline
+activia_japan_05,activia_japan_05-050,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,37.4,31.3,-6.1,Low Baseline
+activia_japan_05,activia_japan_05-050,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,37.4,37.9,0.5,Low Baseline
+activia_japan_05,activia_japan_05-051,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,60.5,60.5,0,High Baseline
+activia_japan_05,activia_japan_05-051,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,60.5,55.3,-5.2,High Baseline
+activia_japan_05,activia_japan_05-051,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,60.5,58,-2.5,High Baseline
+activia_japan_05,activia_japan_05-052,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,33.4,33.4,0,Low Baseline
+activia_japan_05,activia_japan_05-052,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,33.4,31.1,-2.3,Low Baseline
+activia_japan_05,activia_japan_05-052,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,33.4,31.5,-1.9,Low Baseline
+activia_japan_05,activia_japan_05-053,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.5,51.5,0,Low Baseline
+activia_japan_05,activia_japan_05-053,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,51.5,47.7,-3.8,Low Baseline
+activia_japan_05,activia_japan_05-053,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,51.5,46.1,-5.4,Low Baseline
+activia_japan_05,activia_japan_05-054,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,65.3,65.3,0,High Baseline
+activia_japan_05,activia_japan_05-054,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,65.3,62.3,-3,High Baseline
+activia_japan_05,activia_japan_05-054,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,65.3,59.5,-5.8,High Baseline
+activia_japan_05,activia_japan_05-055,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,65.9,65.9,0,High Baseline
+activia_japan_05,activia_japan_05-055,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,65.9,66.3,0.4,High Baseline
+activia_japan_05,activia_japan_05-055,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,65.9,64,-1.9,High Baseline
+activia_japan_05,activia_japan_05-056,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55.4,55.4,0,High Baseline
+activia_japan_05,activia_japan_05-056,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,55.4,55.7,0.3,High Baseline
+activia_japan_05,activia_japan_05-056,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,55.4,54.9,-0.5,High Baseline
+activia_japan_05,activia_japan_05-057,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,51.9,51.9,0,Low Baseline
+activia_japan_05,activia_japan_05-057,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,51.9,53.1,1.2,Low Baseline
+activia_japan_05,activia_japan_05-057,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,51.9,56.1,4.2,Low Baseline
+activia_japan_05,activia_japan_05-058,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.4,58.4,0,High Baseline
+activia_japan_05,activia_japan_05-058,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,58.4,60.7,2.3,High Baseline
+activia_japan_05,activia_japan_05-058,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,58.4,62.7,4.3,High Baseline
+activia_japan_05,activia_japan_05-059,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,34.3,34.3,0,Low Baseline
+activia_japan_05,activia_japan_05-059,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,34.3,29.8,-4.5,Low Baseline
+activia_japan_05,activia_japan_05-059,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,34.3,29.3,-5,Low Baseline
+activia_japan_05,activia_japan_05-060,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,50.1,50.1,0,Low Baseline
+activia_japan_05,activia_japan_05-060,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,50.1,54.3,4.2,Low Baseline
+activia_japan_05,activia_japan_05-060,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,50.1,50.5,0.4,Low Baseline
+activia_japan_05,activia_japan_05-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,78.6,78.6,0,High Baseline
+activia_japan_05,activia_japan_05-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,78.6,78.4,-0.2,High Baseline
+activia_japan_05,activia_japan_05-061,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,78.6,74.2,-4.4,High Baseline
+activia_japan_05,activia_japan_05-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,32.4,32.4,0,Low Baseline
+activia_japan_05,activia_japan_05-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,32.4,21.2,-11.2,Low Baseline
+activia_japan_05,activia_japan_05-062,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,32.4,40.7,8.3,Low Baseline
+activia_japan_05,activia_japan_05-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,76.2,76.2,0,High Baseline
+activia_japan_05,activia_japan_05-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,76.2,77.4,1.2,High Baseline
+activia_japan_05,activia_japan_05-063,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,76.2,77.2,1,High Baseline
+activia_japan_05,activia_japan_05-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,61.9,61.9,0,High Baseline
+activia_japan_05,activia_japan_05-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,61.9,63.5,1.6,High Baseline
+activia_japan_05,activia_japan_05-064,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,61.9,59.2,-2.7,High Baseline
+activia_japan_05,activia_japan_05-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,50.3,50.3,0,Low Baseline
+activia_japan_05,activia_japan_05-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,50.3,50.3,0,Low Baseline
+activia_japan_05,activia_japan_05-065,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,50.3,44,-6.3,Low Baseline
+activia_japan_05,activia_japan_05-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,84.1,84.1,0,High Baseline
+activia_japan_05,activia_japan_05-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,84.1,83.1,-1,High Baseline
+activia_japan_05,activia_japan_05-066,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,84.1,81.1,-3,High Baseline
+activia_japan_05,activia_japan_05-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,54.5,54.5,0,Low Baseline
+activia_japan_05,activia_japan_05-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,54.5,58.9,4.4,Low Baseline
+activia_japan_05,activia_japan_05-067,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,54.5,49.6,-4.9,Low Baseline
+activia_japan_05,activia_japan_05-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,79.6,79.6,0,High Baseline
+activia_japan_05,activia_japan_05-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,79.6,77.6,-2,High Baseline
+activia_japan_05,activia_japan_05-068,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,79.6,76.5,-3.1,High Baseline
+activia_japan_05,activia_japan_05-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,55.3,55.3,0,High Baseline
+activia_japan_05,activia_japan_05-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,55.3,58.4,3.1,High Baseline
+activia_japan_05,activia_japan_05-069,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,55.3,55.5,0.2,High Baseline
+activia_japan_05,activia_japan_05-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,62.2,62.2,0,High Baseline
+activia_japan_05,activia_japan_05-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,62.2,47.1,-15.1,High Baseline
+activia_japan_05,activia_japan_05-070,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,62.2,57.4,-4.8,High Baseline
+activia_japan_05,activia_japan_05-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,47.5,47.5,0,Low Baseline
+activia_japan_05,activia_japan_05-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,47.5,44.8,-2.7,Low Baseline
+activia_japan_05,activia_japan_05-071,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,47.5,37,-10.5,Low Baseline
+activia_japan_05,activia_japan_05-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.9,42.9,0,Low Baseline
+activia_japan_05,activia_japan_05-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,42.9,31,-11.9,Low Baseline
+activia_japan_05,activia_japan_05-072,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,42.9,54.6,11.7,Low Baseline
+activia_japan_05,activia_japan_05-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,29,29,0,Low Baseline
+activia_japan_05,activia_japan_05-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,29,27.1,-1.9,Low Baseline
+activia_japan_05,activia_japan_05-073,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,29,15.8,-13.2,Low Baseline
+activia_japan_05,activia_japan_05-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,46.9,46.9,0,Low Baseline
+activia_japan_05,activia_japan_05-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,46.9,49.5,2.6,Low Baseline
+activia_japan_05,activia_japan_05-074,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,46.9,48.4,1.5,Low Baseline
+activia_japan_05,activia_japan_05-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,64.5,64.5,0,High Baseline
+activia_japan_05,activia_japan_05-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,64.5,70.4,5.9,High Baseline
+activia_japan_05,activia_japan_05-075,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,64.5,51.7,-12.8,High Baseline
+activia_japan_05,activia_japan_05-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,40.7,40.7,0,Low Baseline
+activia_japan_05,activia_japan_05-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,40.7,38.7,-2,Low Baseline
+activia_japan_05,activia_japan_05-076,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,40.7,38.7,-2,Low Baseline
+activia_japan_05,activia_japan_05-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,39.9,39.9,0,Low Baseline
+activia_japan_05,activia_japan_05-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,39.9,44.6,4.7,Low Baseline
+activia_japan_05,activia_japan_05-077,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,39.9,25.9,-14,Low Baseline
+activia_japan_05,activia_japan_05-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,49.3,49.3,0,Low Baseline
+activia_japan_05,activia_japan_05-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,49.3,56.3,7,Low Baseline
+activia_japan_05,activia_japan_05-078,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,49.3,51.4,2.1,Low Baseline
+activia_japan_05,activia_japan_05-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,57.1,57.1,0,High Baseline
+activia_japan_05,activia_japan_05-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,57.1,59.8,2.7,High Baseline
+activia_japan_05,activia_japan_05-079,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,57.1,56.3,-0.8,High Baseline
+activia_japan_05,activia_japan_05-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,48.6,48.6,0,Low Baseline
+activia_japan_05,activia_japan_05-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,48.6,48.7,0.1,Low Baseline
+activia_japan_05,activia_japan_05-080,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,48.6,50.7,2.1,Low Baseline
+activia_japan_05,activia_japan_05-081,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,70.8,70.8,0,High Baseline
+activia_japan_05,activia_japan_05-081,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,70.8,71.8,1,High Baseline
+activia_japan_05,activia_japan_05-081,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,70.8,61.2,-9.6,High Baseline
+activia_japan_05,activia_japan_05-082,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,58.8,58.8,0,High Baseline
+activia_japan_05,activia_japan_05-082,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,58.8,51.5,-7.3,High Baseline
+activia_japan_05,activia_japan_05-082,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,58.8,53.9,-4.9,High Baseline
+activia_japan_05,activia_japan_05-083,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,54.5,54.5,0,Low Baseline
+activia_japan_05,activia_japan_05-083,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,54.5,56.5,2,Low Baseline
+activia_japan_05,activia_japan_05-083,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,54.5,50.9,-3.6,Low Baseline
+activia_japan_05,activia_japan_05-084,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,40.7,40.7,0,Low Baseline
+activia_japan_05,activia_japan_05-084,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,40.7,42.2,1.5,Low Baseline
+activia_japan_05,activia_japan_05-084,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,40.7,37.9,-2.8,Low Baseline
+activia_japan_05,activia_japan_05-085,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,42.8,42.8,0,Low Baseline
+activia_japan_05,activia_japan_05-085,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,42.8,43.1,0.3,Low Baseline
+activia_japan_05,activia_japan_05-085,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,42.8,43.2,0.4,Low Baseline
+activia_japan_05,activia_japan_05-086,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,61,61,0,High Baseline
+activia_japan_05,activia_japan_05-086,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,61,61.4,0.4,High Baseline
+activia_japan_05,activia_japan_05-086,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,61,62.6,1.6,High Baseline
+activia_japan_05,activia_japan_05-087,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,50.7,50.7,0,Low Baseline
+activia_japan_05,activia_japan_05-087,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,50.7,56,5.3,Low Baseline
+activia_japan_05,activia_japan_05-087,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,50.7,37.5,-13.2,Low Baseline
+activia_japan_05,activia_japan_05-088,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,69.4,69.4,0,High Baseline
+activia_japan_05,activia_japan_05-088,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,69.4,68.4,-1,High Baseline
+activia_japan_05,activia_japan_05-088,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,69.4,62.4,-7,High Baseline
+activia_japan_05,activia_japan_05-089,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,33.8,33.8,0,Low Baseline
+activia_japan_05,activia_japan_05-089,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,33.8,34.8,1,Low Baseline
+activia_japan_05,activia_japan_05-089,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,33.8,29,-4.8,Low Baseline
+activia_japan_05,activia_japan_05-090,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),0,Baseline,Y,NA,59.4,59.4,0,High Baseline
+activia_japan_05,activia_japan_05-090,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),8,Week 8,NA,NA,59.4,60.3,0.9,High Baseline
+activia_japan_05,activia_japan_05-090,Placebo,GUT_COMFORT,Gut Comfort Score (0-100),12,Week 12,NA,Y,59.4,62.9,3.5,High Baseline

@@ -1,0 +1,211 @@
+STUDYID,USUBJID,TRT01A,PARAMCD,PARAM,AVISITN,AVISIT,ABLFL,ANL01FL,BASE,AVAL,CHG,SUBGRP
+actimel_immune_elder_02,actimel_immune_elder_02-001,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-001,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.2,3.1,-1.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-001,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.2,2.9,-1.3,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-002,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-002,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.4,3.1,-1.3,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-002,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.4,3,-1.4,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-003,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3,3,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-003,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3,2.1,-0.9,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-003,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3,2,-1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-004,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.6,2.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-004,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.6,2.4,-0.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-004,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.6,1.9,-0.7,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-005,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.2,2.2,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-005,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.2,1.7,-0.5,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-005,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.2,1.8,-0.4,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-006,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.8,2.8,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-006,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.8,2.7,-0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-006,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.8,1.1,-1.7,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-007,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.1,5.1,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-007,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.1,4.2,-0.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-007,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.1,2.9,-2.2,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-008,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-008,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.4,2.5,-1.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-008,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.4,2.6,-1.8,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-009,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.7,2.7,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-009,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.7,2.4,-0.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-009,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.7,1.1,-1.6,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-010,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,1.9,1.9,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-010,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,1.9,0.8,-1.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-010,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,1.9,0.6,-1.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-011,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,1,1,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-011,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,1,0.8,-0.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-011,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,1,0,-1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-012,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.7,2.7,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-012,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.7,2.4,-0.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-012,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.7,1.4,-1.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-013,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-013,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.4,3.8,-0.6,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-013,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.4,2.5,-1.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-014,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.4,2.4,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-014,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.4,1.4,-1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-014,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.4,0.9,-1.5,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-015,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-015,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.2,3.5,-0.7,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-015,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.2,2.9,-1.3,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-016,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.9,5.9,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-016,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.9,5.4,-0.5,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-016,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.9,4,-1.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-017,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,1.2,1.2,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-017,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,1.2,1,-0.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-017,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,1.2,0,-1.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-018,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.7,3.7,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-018,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.7,2.4,-1.3,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-018,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.7,2.1,-1.6,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-019,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.6,2.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-019,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.6,1.8,-0.8,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-019,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.6,1.9,-0.7,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-020,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.9,4.9,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-020,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.9,4.3,-0.6,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-020,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.9,3.9,-1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-021,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.8,3.8,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-021,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.8,2.9,-0.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-021,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.8,2.7,-1.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-022,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-022,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.2,3.2,-1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-022,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.2,3,-1.2,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-023,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4,4,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-023,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4,2.9,-1.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-023,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4,2.7,-1.3,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-024,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.1,4.1,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-024,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.1,2.5,-1.6,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-024,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.1,2.5,-1.6,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-025,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-025,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.2,3.4,-0.8,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-025,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.2,2.1,-2.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-026,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.6,2.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-026,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.6,1.4,-1.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-026,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.6,1.5,-1.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-027,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.3,5.3,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-027,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.3,4.3,-1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-027,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.3,3.8,-1.5,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-028,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.6,5.6,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-028,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.6,4.4,-1.2,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-028,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.6,4.2,-1.4,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-029,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-029,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.6,2.5,-1.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-029,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.6,2.8,-0.8,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-030,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-030,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.6,3.2,-0.4,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-030,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.6,2.3,-1.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-031,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,1.6,1.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-031,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,1.6,0.5,-1.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-031,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,1.6,0.4,-1.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-032,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4,4,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-032,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4,2.1,-1.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-032,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4,2.1,-1.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-033,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,1.1,1.1,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-033,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,1.1,0,-1.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-033,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,1.1,0.4,-0.7,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-034,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-034,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.6,2.5,-1.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-034,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.6,2.4,-1.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-035,Active,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2,2,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-035,Active,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2,1.2,-0.8,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-035,Active,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2,1.1,-0.9,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-036,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.8,2.8,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-036,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.8,1.8,-1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-036,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.8,3,0.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-037,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-037,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.6,3.1,-0.5,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-037,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.6,2.5,-1.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-038,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-038,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.4,3.4,-1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-038,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.4,4.3,-0.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-039,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.5,5.5,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-039,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.5,6,0.5,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-039,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.5,5.4,-0.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-040,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-040,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.3,2.9,-0.4,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-040,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.3,2.6,-0.7,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-041,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.5,3.5,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-041,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.5,3.5,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-041,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.5,2.3,-1.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-042,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.5,3.5,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-042,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.5,3.1,-0.4,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-042,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.5,3.2,-0.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-043,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.2,3.2,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-043,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.2,3.3,0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-043,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.2,2.8,-0.4,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-044,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.4,3.4,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-044,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.4,3.4,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-044,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.4,2.4,-1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-045,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.7,4.7,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-045,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.7,4.5,-0.2,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-045,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.7,5.7,1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-046,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.9,5.9,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-046,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.9,5.2,-0.7,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-046,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.9,5.8,-0.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-047,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.7,5.7,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-047,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.7,5.6,-0.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-047,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.7,4.7,-1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-048,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.7,3.7,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-048,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.7,3.8,0.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-048,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.7,3.3,-0.4,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-049,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.5,4.5,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-049,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.5,4.5,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-049,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.5,3.6,-0.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-050,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.1,3.1,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-050,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.1,3.2,0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-050,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.1,3.2,0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-051,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2,2,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-051,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2,1.1,-0.9,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-051,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2,0.7,-1.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-052,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.4,4.4,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-052,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.4,3.9,-0.5,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-052,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.4,3.7,-0.7,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-053,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-053,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.2,3.7,-0.5,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-053,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-054,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.7,5.7,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-054,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.7,5.3,-0.4,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-054,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.7,4.8,-0.9,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-055,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.6,3.6,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-055,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.6,3.8,0.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-055,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.6,2.6,-1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-056,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,1.7,1.7,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-056,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,1.7,1.7,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-056,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,1.7,1.9,0.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-057,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.1,4.1,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-057,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.1,3.6,-0.5,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-057,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.1,4.1,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-058,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2,2,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-058,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2,2.1,0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-058,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2,1.7,-0.3,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-059,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.5,2.5,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-059,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.5,3.1,0.6,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-059,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.5,2.5,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-060,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.2,3.2,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-060,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.2,3.4,0.2,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-060,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.2,2.6,-0.6,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-061,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-061,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.3,3.7,0.4,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-061,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.3,3.8,0.5,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-062,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.1,2.1,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-062,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.1,1.2,-0.9,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-062,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.1,2,-0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-063,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,5.1,5.1,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-063,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,5.1,4.7,-0.4,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-063,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,5.1,5.4,0.3,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-064,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-064,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.2,3.5,-0.7,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-064,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.2,3.8,-0.4,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-065,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.7,2.7,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-065,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.7,2.6,-0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-065,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.7,2.8,0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-066,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.8,2.8,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-066,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.8,2.7,-0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-066,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.8,2.9,0.1,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-067,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,2.3,2.3,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-067,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,2.3,0.9,-1.4,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-067,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,2.3,1.7,-0.6,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-068,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.2,4.2,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-068,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.2,4.3,0.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-068,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.2,4.1,-0.1,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-069,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,4.9,4.9,0,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-069,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,4.9,4.6,-0.3,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-069,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,4.9,3.7,-1.2,High Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-070,Placebo,COLD_FREQ,Cold Episode Frequency (per year),0,Baseline,Y,NA,3.3,3.3,0,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-070,Placebo,COLD_FREQ,Cold Episode Frequency (per year),8,Week 8,NA,NA,3.3,2.7,-0.6,Low Baseline
+actimel_immune_elder_02,actimel_immune_elder_02-070,Placebo,COLD_FREQ,Cold Episode Frequency (per year),12,Week 12,NA,Y,3.3,2.4,-0.9,Low Baseline

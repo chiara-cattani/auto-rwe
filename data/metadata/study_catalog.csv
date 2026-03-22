@@ -1,0 +1,10 @@
+study_id,product,therapeutic_area,population,design_type,n_subjects,phase
+activia_eu_01,Activia Probiotic,digestive_health,Adults 18-65,RCT,80,III
+actimel_asia_02,Actimel Daily,digestive_health,Adults 18-65,RCT,100,III
+danone_elderly_03,Actimel Senior,digestive_health,Adults 65+,RCT,60,II
+activia_us_04,Activia Probiotic,digestive_health,Adults 18-65,RCT,120,III
+activia_japan_05,Activia Light,digestive_health,Adults 18-65,RCT,90,II
+densia_eu_01,Densia,bone_joint_health,Women 50+,RCT,80,III
+densia_global_02,Densia Plus,bone_joint_health,Adults 45+,RCT,150,III
+actimel_immune_eu_01,Actimel,immune_support,Adults 18-65,RCT,100,III
+actimel_immune_elder_02,Actimel Senior,immune_support,Adults 65+,RCT,70,II
